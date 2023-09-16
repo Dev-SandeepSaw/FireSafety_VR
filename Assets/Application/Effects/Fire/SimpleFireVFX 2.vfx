@@ -1241,7 +1241,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.TArcCone, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"cone":{"transform":{"position":{"x":0.02999875694513321,"y":0.41676098108291628,"z":-0.2790120542049408},"angles":{"x":90.0,"y":0.0,"z":0.0},"scale":{"x":1.0,"y":1.0,"z":1.0}},"baseRadius":0.0,"topRadius":0.0,"height":0.8446507453918457},"arc":6.28000020980835}'
+      m_SerializableObject: '{"cone":{"transform":{"position":{"x":0.029997916892170907,"y":0.4167611598968506,"z":-0.42305806279182436},"angles":{"x":90.0,"y":0.0,"z":0.0},"scale":{"x":1.0,"y":1.0,"z":10.0}},"baseRadius":0.0,"topRadius":0.0,"height":0.8446507453918457},"arc":6.28000020980835}'
     m_Space: 0
   m_Property:
     name: arcCone
@@ -1612,7 +1612,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614690}
   - {fileID: 8926484042661614691}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661614677}
   m_MasterData:
@@ -2342,7 +2342,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614711}
   - {fileID: 8926484042661614696}
   dataType: 0
-  capacity: 15
+  capacity: 25
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
