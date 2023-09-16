@@ -1,0 +1,5617 @@
+fileFormatVersion: 2
+guid: 2d636f69b8f53af49b1082b013439d83
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _Fire_smoke_detector10
+    100002: _Fire_smoke_detector11
+    100004: _Fire_smoke_detector14
+    100006: _Fire_smoke_detector15
+    100008: _Fire_smoke_detector2
+    100010: _Fire_smoke_detector20
+    100012: _Fire_smoke_detector21
+    100014: _Fire_smoke_detector22
+    100016: _Fire_smoke_detector23
+    100018: _Fire_smoke_detector24
+    100020: _Fire_smoke_detector25
+    100022: _Fire_smoke_detector26
+    100024: _Fire_smoke_detector27
+    100026: _Fire_smoke_detector28
+    100028: _Fire_smoke_detector29
+    100030: _Fire_smoke_detector3
+    100032: _Fire_smoke_detector30
+    100034: _Fire_smoke_detector31
+    100036: _Fire_smoke_detector32
+    100038: _Fire_smoke_detector33
+    100040: _Fire_smoke_detector34
+    100042: _Fire_smoke_detector35
+    100044: _Fire_smoke_detector36
+    100046: _Fire_smoke_detector37
+    100048: _Fire_smoke_detector38
+    100050: _Fire_smoke_detector39
+    100052: _Fire_smoke_detector4
+    100054: _Fire_smoke_detector40
+    100056: _Fire_smoke_detector41
+    100058: _Fire_smoke_detector42
+    100060: _Fire_smoke_detector43
+    100062: _Fire_smoke_detector44
+    100064: _Fire_smoke_detector45
+    100066: _Fire_smoke_detector47
+    100068: _Fire_smoke_detector48
+    100070: _Fire_smoke_detector49
+    100072: _Fire_smoke_detector5
+    100074: _Fire_smoke_detector50
+    100076: _Fire_smoke_detector51
+    100078: _Fire_smoke_detector52
+    100080: _Fire_smoke_detector53
+    100082: _Fire_smoke_detector54
+    100084: _Fire_smoke_detector6
+    100086: _Fire_smoke_detector7
+    100088: _Fire_smoke_detector8
+    100090: _Fire_smoke_detector9
+    100092: _Fire_sprinkler10
+    100094: _Fire_sprinkler11
+    100096: _Fire_sprinkler12
+    100098: _Fire_sprinkler15
+    100100: _Fire_sprinkler16
+    100102: _Fire_sprinkler21
+    100104: _Fire_sprinkler22
+    100106: _Fire_sprinkler23
+    100108: _Fire_sprinkler24
+    100110: _Fire_sprinkler25
+    100112: _Fire_sprinkler26
+    100114: _Fire_sprinkler27
+    100116: _Fire_sprinkler28
+    100118: _Fire_sprinkler29
+    100120: _Fire_sprinkler3
+    100122: _Fire_sprinkler30
+    100124: _Fire_sprinkler31
+    100126: _Fire_sprinkler32
+    100128: _Fire_sprinkler33
+    100130: _Fire_sprinkler34
+    100132: _Fire_sprinkler35
+    100134: _Fire_sprinkler36
+    100136: _Fire_sprinkler37
+    100138: _Fire_sprinkler38
+    100140: _Fire_sprinkler39
+    100142: _Fire_sprinkler4
+    100144: _Fire_sprinkler40
+    100146: _Fire_sprinkler41
+    100148: _Fire_sprinkler42
+    100150: _Fire_sprinkler43
+    100152: _Fire_sprinkler44
+    100154: _Fire_sprinkler45
+    100156: _Fire_sprinkler46
+    100158: _Fire_sprinkler48
+    100160: _Fire_sprinkler49
+    100162: _Fire_sprinkler5
+    100164: _Fire_sprinkler50
+    100166: _Fire_sprinkler51
+    100168: _Fire_sprinkler52
+    100170: _Fire_sprinkler53
+    100172: _Fire_sprinkler54
+    100174: _Fire_sprinkler55
+    100176: _Fire_sprinkler6
+    100178: _Fire_sprinkler7
+    100180: _Fire_sprinkler8
+    100182: _Fire_sprinkler9
+    100184: A4_9
+    100186: AC
+    100188: AC11
+    100190: AC2
+    100192: AC2 1
+    100194: AC3
+    100196: AC3 1
+    100198: AC9
+    100200: AC_Duct1
+    100202: AC_Duct10
+    100204: AC_Duct11
+    100206: AC_Duct12
+    100208: AC_Duct13
+    100210: AC_Duct14
+    100212: AC_Duct15
+    100214: AC_Duct16
+    100216: AC_Duct17
+    100218: AC_Duct18
+    100220: AC_Duct19
+    100222: AC_Duct2
+    100224: AC_Duct20
+    100226: AC_Duct21
+    100228: AC_Duct22
+    100230: AC_Duct26
+    100232: AC_Duct27
+    100234: AC_Duct28
+    100236: AC_Duct29
+    100238: AC_Duct3
+    100240: AC_Duct30
+    100242: AC_Duct31
+    100244: AC_Duct32
+    100246: AC_Duct33
+    100248: AC_Duct34
+    100250: AC_Duct35
+    100252: AC_Duct36
+    100254: AC_Duct37
+    100256: AC_Duct38
+    100258: AC_Duct39
+    100260: AC_Duct4
+    100262: AC_Duct40
+    100264: AC_Duct41
+    100266: AC_Duct42
+    100268: AC_Duct43
+    100270: AC_Duct47
+    100272: AC_Duct49
+    100274: AC_Duct5
+    100276: AC_Duct50
+    100278: AC_Duct52
+    100280: AC_Duct53
+    100282: AC_Duct55
+    100284: AC_Duct56
+    100286: AC_Duct58
+    100288: AC_Duct59
+    100290: AC_Duct6
+    100292: AC_Duct60
+    100294: AC_Duct61
+    100296: AC_Duct62
+    100298: AC_Duct63
+    100300: AC_Duct64
+    100302: AC_Duct65
+    100304: AC_Duct66
+    100306: AC_Duct67
+    100308: AC_Duct68
+    100310: AC_Duct7
+    100312: AC_Duct8
+    100314: AC_Duct9
+    100316: Book_01
+    100318: Book_16_5
+    100320: Book_16_6
+    100322: Book_22
+    100324: Book_51
+    100326: Book_52
+    100328: BookcaseA__3_
+    100330: BookcaseA_books
+    100332: BookcaseA_books__1_
+    100334: Books_01_2
+    100336: Books_02__1_
+    100338: Books_06__1_
+    100340: Books_18__1_
+    100342: Books_23_2
+    100344: Books_24
+    100346: Box
+    100348: Box_1
+    100350: Box_2
+    100352: Box__10_
+    100354: Box__11_
+    100356: Box__12_
+    100358: Box__13_
+    100360: Box__14_
+    100362: Box__15_
+    100364: Box__16_
+    100366: Box__176_
+    100368: Box__177_
+    100370: Box__1_
+    100372: Box__2_
+    100374: Box__3_
+    100376: Box__4_
+    100378: Box__5_
+    100380: Box__6_
+    100382: Box__7_
+    100384: Box__84_
+    100386: Box__85_
+    100388: Box__86_
+    100390: Box__87_
+    100392: Box__88_
+    100394: Box__89_
+    100396: Box__8_
+    100398: Box__92_
+    100400: Box__93_
+    100402: Box__94_
+    100404: Box__95_
+    100406: Box__9_
+    100408: BoxBig
+    100410: BoxBig_1
+    100412: BoxBig_2
+    100414: BoxBig_3
+    100416: BoxBig_4
+    100418: BoxBig__100_
+    100420: BoxBig__101_
+    100422: BoxBig__102_
+    100424: BoxBig__103_
+    100426: BoxBig__104_
+    100428: BoxBig__105_
+    100430: BoxBig__106_
+    100432: BoxBig__107_
+    100434: BoxBig__108_
+    100436: BoxBig__109_
+    100438: BoxBig__110_
+    100440: BoxBig__111_
+    100442: BoxBig__112_
+    100444: BoxBig__113_
+    100446: BoxBig__114_
+    100448: BoxBig__115_
+    100450: BoxBig__116_
+    100452: BoxBig__117_
+    100454: BoxBig__118_
+    100456: BoxBig__119_
+    100458: BoxBig__120_
+    100460: BoxBig__121_
+    100462: BoxBig__122_
+    100464: BoxBig__123_
+    100466: BoxBig__124_
+    100468: BoxBig__125_
+    100470: BoxBig__126_
+    100472: BoxBig__127_
+    100474: BoxBig__128_
+    100476: BoxBig__129_
+    100478: BoxBig__130_
+    100480: BoxBig__131_
+    100482: BoxBig__132_
+    100484: BoxBig__133_
+    100486: BoxBig__134_
+    100488: BoxBig__135_
+    100490: BoxBig__136_
+    100492: BoxBig__137_
+    100494: BoxBig__138_
+    100496: BoxBig__139_
+    100498: BoxBig__140_
+    100500: BoxBig__141_
+    100502: BoxBig__142_
+    100504: BoxBig__143_
+    100506: BoxBig__144_
+    100508: BoxBig__145_
+    100510: BoxBig__146_
+    100512: BoxBig__147_
+    100514: BoxBig__148_
+    100516: BoxBig__149_
+    100518: BoxBig__150_
+    100520: BoxBig__151_
+    100522: BoxBig__152_
+    100524: BoxBig__153_
+    100526: BoxBig__154_
+    100528: BoxBig__155_
+    100530: BoxBig__1_
+    100532: BoxBig__24_
+    100534: BoxBig__25_
+    100536: BoxBig__26_
+    100538: BoxBig__27_
+    100540: BoxBig__28_
+    100542: BoxBig__29_
+    100544: BoxBig__2_
+    100546: BoxBig__30_
+    100548: BoxBig__31_
+    100550: BoxBig__32_
+    100552: BoxBig__33_
+    100554: BoxBig__34_
+    100556: BoxBig__35_
+    100558: BoxBig__36_
+    100560: BoxBig__37_
+    100562: BoxBig__38_
+    100564: BoxBig__39_
+    100566: BoxBig__3_
+    100568: BoxBig__40_
+    100570: BoxBig__41_
+    100572: BoxBig__42_
+    100574: BoxBig__43_
+    100576: BoxBig__44_
+    100578: BoxBig__45_
+    100580: BoxBig__46_
+    100582: BoxBig__47_
+    100584: BoxBig__48_
+    100586: BoxBig__49_
+    100588: BoxBig__50_
+    100590: BoxBig__51_
+    100592: BoxBig__52_
+    100594: BoxBig__71_
+    100596: BoxBig__72_
+    100598: BoxBig__73_
+    100600: BoxBig__74_
+    100602: BoxBig__78_
+    100604: BoxBig__79_
+    100606: BoxBig__7_
+    100608: BoxBig__80_
+    100610: BoxBig__81_
+    100612: BoxBig__82_
+    100614: BoxBig__83_
+    100616: BoxBig__84_
+    100618: BoxBig__85_
+    100620: BoxBig__86_
+    100622: BoxBig__87_
+    100624: BoxBig__88_
+    100626: BoxBig__89_
+    100628: BoxBig__90_
+    100630: BoxBig__91_
+    100632: BoxBig__92_
+    100634: BoxBig__93_
+    100636: BoxBig__94_
+    100638: BoxBig__95_
+    100640: BoxBig__96_
+    100642: BoxBig__97_
+    100644: BoxBig__98_
+    100646: BoxBig__99_
+    100648: BoxBigOpen
+    100650: BoxBigOpen__1_
+    100652: BoxOpen
+    100654: BoxOpen__1_
+    100656: BoxOpen__2_
+    100658: BoxPortable_A
+    100660: BoxPortable_B
+    100662: BoxPortable_C
+    100664: BoxPortable_C_2
+    100666: BoxPortable_D
+    100668: BoxPortableCap_C
+    100670: BoxPortableCap_C_1
+    100672: BoxPortableCap_D
+    100674: CarpetPath_02__4_
+    100676: CCTV_1__10_
+    100678: CCTV_1__6_
+    100680: CCTV_1__7_
+    100682: CCTV_1__8_
+    100684: Chair
+    100686: Clock_01_LOD0
+    100688: Clock_03
+    100690: CO2_extinguisher
+    100692: CO2_extinguisher 1
+    100694: CO2_extinguisher 2
+    100696: CO2_extinguisher 3
+    100698: Cube27
+    100700: Cup_full
+    100702: Cup_half_full
+    100704: Cupboard
+    100706: Cupboard__1_
+    100708: Cupboard__3_
+    100710: Cupboard__6_
+    100712: DecorativeTop__10_
+    100714: DecorativeTop__1_
+    100716: DecorativeTop__2_
+    100718: DecorativeTop__4_
+    100720: DecorativeTop__5_
+    100722: DecorativeTop__6_
+    100724: DecorativeTop__8_1
+    100726: Document__2_
+    100728: Document__2_1
+    100730: Document__2_2
+    100732: Document__2_3
+    100734: Document__4_
+    100736: Document__5_
+    100738: Donut__1_
+    100740: Door
+    100742: Door1
+    100744: Door10
+    100746: Door11
+    100748: Door2
+    100750: Door3
+    100752: Door4
+    100754: Door5
+    100756: Door6
+    100758: Door8
+    100760: Door9
+    100762: Door_2_5m__1_2
+    100764: Door_2_5m__1_2 1
+    100766: Door_2_5m__1_2 2
+    100768: Door_2_5m__1_2 3
+    100770: Door_2_5m__1_2 4
+    100772: Door_2_5m__1_2 5
+    100774: Door_2_5m__1_2 6
+    100776: Door_L_7
+    100778: Door_L_7 1
+    100780: Door_L_7 2
+    100782: Door_L_7 3
+    100784: Door_L_7 4
+    100786: Door_L_7 5
+    100788: Door_L_7 6
+    100790: Door_L_7 7
+    100792: Door_L_7 8
+    100794: Door_R_10
+    100796: Door_R_11
+    100798: Door_R_7
+    100800: Door_R_7 1
+    100802: Door_R_7 10
+    100804: Door_R_7 2
+    100806: Door_R_7 3
+    100808: Door_R_7 4
+    100810: Door_R_7 5
+    100812: Door_R_7 6
+    100814: Door_R_7 7
+    100816: Door_R_7 8
+    100818: Door_R_7 9
+    100820: Door_R_8
+    100822: Door_R_9
+    100824: DoorA
+    100826: DoorA1
+    100828: extension
+    100830: ExtinguisherMounting__1_
+    100832: ExtinguisherMounting__1_ 1
+    100834: ExtinguisherMounting__1_ 2
+    100836: ExtinguisherMounting__1_ 3
+    100838: ExtinguisherMounting__1_1
+    100840: ExtinguisherMounting__1_1 1
+    100842: ExtinguisherMounting__1_1 2
+    100844: ExtinguisherMounting__1_1 3
+    100846: ExtinguisherMounting__1_2
+    100848: ExtinguisherMounting__1_2 1
+    100850: ExtinguisherMounting__1_2 2
+    100852: ExtinguisherMounting__1_2 3
+    100854: ExtinguisherMounting__1_3
+    100856: ExtinguisherMounting__1_3 1
+    100858: ExtinguisherMounting__1_3 2
+    100860: ExtinguisherMounting__1_3 3
+    100862: Felt__Pen_Pink__1_
+    100864: Felt__Pen_Pink__2_
+    100866: Felt__Pen_Ultramarin__1_
+    100868: Felt__Pen_Ultramarin__2_
+    100870: FeltPen_Blue
+    100872: FeltPen_Blue1
+    100874: FeltPen_Blue2
+    100876: FeltPen_Blue3
+    100878: FileCabinet_01__19_1
+    100880: FileCabinet_01__8_
+    100882: FileCabinet_02__5_
+    100884: //RootNode
+    100886: fire_alarm1
+    100888: fire_alarm1 1
+    100890: fire_alarm1 2
+    100892: fire_alarm1 3
+    100894: Fire_Extinguishers2
+    100896: Fire_Extinguishers4
+    100898: Fire_Extinguishers5
+    100900: Fire_Extinguishers6
+    100902: Floor_6m__30_1
+    100904: Foam_extinguisher
+    100906: Foam_extinguisher 1
+    100908: Foam_extinguisher 2
+    100910: Foam_extinguisher 3
+    100912: Foam_Spray
+    100914: Foam_Spray 1
+    100916: Foam_Spray 2
+    100918: Foam_Spray 3
+    100920: Foam_Spray1
+    100922: Foam_Spray1 1
+    100924: Foam_Spray1 2
+    100926: Foam_Spray1 3
+    100928: Frame01
+    100930: Frame02
+    100932: Frame15
+    100934: Glass_1m__27_2
+    100936: GlassDecor_1m__1_1
+    100938: GlassDecor_1m__1_1 1
+    100940: GlassDecor_1m__1_1 2
+    100942: group
+    100944: group1
+    100946: group10
+    100948: group2
+    100950: group3
+    100952: group9
+    100954: HandDryer__6_
+    100956: Hours
+    100958: Kerosene
+    100960: Kerosene1
+    100962: Kerosene2
+    100964: Kerosene3
+    100966: Kerosene4
+    100968: Kerosene5
+    100970: Kerosene6
+    100972: Keyboard
+    100974: Keyboard__3_
+    100976: Keyboard___8_4
+    100978: Lamp02
+    100980: Lamp02__4_
+    100982: LampTechnicalA
+    100984: LampTechnicalA__1_
+    100986: LampTechnicalA__2_
+    100988: Laptop
+    100990: Light1
+    100992: Light10
+    100994: Light11
+    100996: Light12
+    100998: Light13
+    101000: Light14
+    101002: Light15
+    101004: Light16
+    101006: Light17
+    101008: Light18
+    101010: Light19
+    101012: Light2
+    101014: Light20
+    101016: Light21
+    101018: Light22
+    101020: Light23
+    101022: Light25
+    101024: Light27
+    101026: Light28
+    101028: Light29
+    101030: Light3
+    101032: Light30
+    101034: Light31
+    101036: Light32
+    101038: Light33
+    101040: Light34
+    101042: Light35
+    101044: Light36
+    101046: Light37
+    101048: Light38
+    101050: Light39
+    101052: Light4
+    101054: Light40
+    101056: Light41
+    101058: Light42
+    101060: Light43
+    101062: Light44
+    101064: Light45
+    101066: Light46
+    101068: Light47
+    101070: Light48
+    101072: Light49
+    101074: Light5
+    101076: Light50
+    101078: Light51
+    101080: Light52
+    101082: Light53
+    101084: Light54
+    101086: Light55
+    101088: Light56
+    101090: Light57
+    101092: Light58
+    101094: Light59
+    101096: Light6
+    101098: Light60
+    101100: Light61
+    101102: Light62
+    101104: Light63
+    101106: Light64
+    101108: Light65
+    101110: Light66
+    101112: Light67
+    101114: Light68
+    101116: Light69
+    101118: Light7
+    101120: Light70
+    101122: Light71
+    101124: Light72
+    101126: Light73
+    101128: Light8
+    101130: Light9
+    101132: liver
+    101134: liver 1
+    101136: liver 2
+    101138: liver 3
+    101140: LockCode__1_
+    101142: main_body
+    101144: main_body 1
+    101146: main_body 2
+    101148: main_body 3
+    101150: Marker_Blue
+    101152: Marker_Blue2
+    101154: Marker_Blue3
+    101156: Marker_Blue_1
+    101158: Marker_Green
+    101160: Marker_Red
+    101162: Marker_Red1
+    101164: Marker_Red2
+    101166: Marker_Red3
+    101168: Marker_Yellow
+    101170: Marker_Yellow1
+    101172: Marker_Yellow2
+    101174: Marker_Yellow3
+    101176: Mat
+    101178: meeting_room_scenario_assets
+    101180: Mirror__8_
+    101182: Monitor___3_1
+    101184: Mouse_01
+    101186: Mouse__12_
+    101188: Mouse___5_10
+    101190: MousePad__1_
+    101192: MousePad__8_
+    101194: NotebookOpen
+    101196: NotebookOpen__1_1
+    101198: NotebookOpen__2_
+    101200: Pack_Paper__3_
+    101202: Paper
+    101204: Paper1
+    101206: Paper2
+    101208: Paper3
+    101210: Paper__3_
+    101212: PaperStack_A
+    101214: PaperStack_A1
+    101216: PaperStack_A1 1
+    101218: PaperStack_A1 2
+    101220: PaperStack_A2
+    101222: PaperStack_A3
+    101224: PaperStack_A4
+    101226: PaperStack_A4 1
+    101228: PaperStack_A4 2
+    101230: PaperStack_A5
+    101232: PaperStack_A5 1
+    101234: PaperStack_A5 2
+    101236: PaperStack_A6
+    101238: PaperStack_A6 1
+    101240: PaperStack_A6 2
+    101242: PaperStack_A7
+    101244: PaperStack_A7 1
+    101246: PaperStack_A7 2
+    101248: PaperTray__9_
+    101250: PC
+    101252: PC__3_
+    101254: PC__5_5
+    101256: pCube100
+    101258: pCube101
+    101260: pCube99
+    101262: pCylinder49
+    101264: Pen
+    101266: Pen__1_
+    101268: Pencil_Black
+    101270: Pencil_Black__1_
+    101272: Pencil_Black__2_
+    101274: Pencil_Black__3_
+    101276: Pencil_Black__4_
+    101278: Pencil_Black__5_
+    101280: Pencil_Black__6_
+    101282: Pencil_Black__7_
+    101284: Pencil_Blue
+    101286: Pencil_Blue__1_
+    101288: Pencil_Blue__2_
+    101290: Pencil_Blue__4_
+    101292: Pencil_Brown
+    101294: Pencil_Brown__1_
+    101296: Pencil_Gray
+    101298: Pencil_Gray1
+    101300: Pencil_Gray2
+    101302: Pencil_Gray3
+    101304: Pencil_Gray__1_
+    101306: Pencil_Red
+    101308: Pencil_Red__2_
+    101310: Pencil_Red__3_
+    101312: Pencil_White
+    101314: Pencil_White__2_
+    101316: PencilCase_filled
+    101318: PencilCup
+    101320: PencilCup__2_
+    101322: Picture_02Shape
+    101324: Picture_08
+    101326: Pillars
+    101328: Pillars_polySurface407
+    101330: plant
+    101332: Plant01_LOD0_1
+    101334: Plant01_LOD1
+    101336: Plant01_LOD1_2
+    101338: Plant02_LOD1
+    101340: Plant03_LOD1
+    101342: Plant03_LOD1_1
+    101344: polySurface109
+    101346: polySurface112
+    101348: polySurface116
+    101350: polySurface247
+    101352: polySurface248
+    101354: polySurface249
+    101356: polySurface250
+    101358: polySurface251
+    101360: polySurface252
+    101362: polySurface253
+    101364: polySurface254
+    101366: polySurface255
+    101368: polySurface256
+    101370: polySurface257
+    101372: polySurface258
+    101374: polySurface259
+    101376: polySurface260
+    101378: polySurface261
+    101380: polySurface262
+    101382: polySurface263
+    101384: polySurface264
+    101386: polySurface265
+    101388: polySurface266
+    101390: polySurface267
+    101392: polySurface268
+    101394: polySurface269
+    101396: polySurface270
+    101398: polySurface271
+    101400: polySurface272
+    101402: polySurface273
+    101404: polySurface274
+    101406: polySurface275
+    101408: polySurface276
+    101410: polySurface277
+    101412: polySurface278
+    101414: polySurface279
+    101416: polySurface280
+    101418: polySurface281
+    101420: polySurface282
+    101422: polySurface283
+    101424: polySurface284
+    101426: polySurface285
+    101428: polySurface286
+    101430: polySurface287
+    101432: polySurface288
+    101434: polySurface289
+    101436: polySurface290
+    101438: polySurface291
+    101440: polySurface292
+    101442: polySurface293
+    101444: polySurface294
+    101446: polySurface295
+    101448: polySurface296
+    101450: polySurface297
+    101452: polySurface298
+    101454: polySurface351
+    101456: polySurface388
+    101458: polySurface395
+    101460: polySurface399
+    101462: polySurface400
+    101464: polySurface400 1
+    101466: polySurface400 2
+    101468: polySurface401
+    101470: polySurface404
+    101472: polySurface406
+    101474: polySurface407
+    101476: polySurface407 1
+    101478: polySurface407 2
+    101480: polySurface410
+    101482: polySurface411
+    101484: polySurface412
+    101486: polySurface413
+    101488: polySurface415
+    101490: polySurface60705
+    101492: polySurface60706
+    101494: polySurface60707
+    101496: polySurface60708
+    101498: polySurface60720
+    101500: polySurface60790
+    101502: polySurface60790 1
+    101504: polySurface60790 2
+    101506: polySurface60793
+    101508: polySurface60794
+    101510: polySurface60795
+    101512: polySurface60795 1
+    101514: polySurface60795 2
+    101516: polySurface60795 3
+    101518: polySurface60796
+    101520: polySurface60796 1
+    101522: polySurface60796 2
+    101524: polySurface60796 3
+    101526: polySurface60797
+    101528: polySurface60797 1
+    101530: polySurface60797 2
+    101532: polySurface60797 3
+    101534: polySurface60798
+    101536: polySurface60798 1
+    101538: polySurface60798 2
+    101540: polySurface60798 3
+    101542: polySurface60799
+    101544: polySurface60799 1
+    101546: polySurface60799 2
+    101548: polySurface60799 3
+    101550: polySurface60800
+    101552: polySurface60800 1
+    101554: polySurface60800 2
+    101556: polySurface60800 3
+    101558: polySurface60801
+    101560: polySurface60801 1
+    101562: polySurface60801 2
+    101564: polySurface60801 3
+    101566: polySurface60802
+    101568: polySurface60802 1
+    101570: polySurface60802 2
+    101572: polySurface60802 3
+    101574: polySurface60803
+    101576: polySurface60803 1
+    101578: polySurface60803 2
+    101580: polySurface60803 3
+    101582: polySurface60804
+    101584: polySurface60804 1
+    101586: polySurface60804 2
+    101588: polySurface60804 3
+    101590: polySurface60805
+    101592: polySurface60805 1
+    101594: polySurface60805 2
+    101596: polySurface60805 3
+    101598: polySurface60806
+    101600: polySurface60806 1
+    101602: polySurface60806 2
+    101604: polySurface60806 3
+    101606: polySurface60807
+    101608: polySurface60807 1
+    101610: polySurface60807 2
+    101612: polySurface60807 3
+    101614: polySurface60808
+    101616: polySurface60808 1
+    101618: polySurface60808 2
+    101620: polySurface60808 3
+    101622: polySurface60809
+    101624: polySurface60809 1
+    101626: polySurface60809 2
+    101628: polySurface60809 3
+    101630: polySurface60810
+    101632: polySurface60810 1
+    101634: polySurface60810 2
+    101636: polySurface60810 3
+    101638: polySurface60810 4
+    101640: polySurface60810 5
+    101642: polySurface60810 6
+    101644: polySurface60810 7
+    101646: polySurface60811
+    101648: polySurface60811 1
+    101650: polySurface60811 2
+    101652: polySurface60811 3
+    101654: polySurface60811 4
+    101656: polySurface60811 5
+    101658: polySurface60811 6
+    101660: polySurface60811 7
+    101662: polySurface60812
+    101664: polySurface60812 1
+    101666: polySurface60812 2
+    101668: polySurface60812 3
+    101670: polySurface60812 4
+    101672: polySurface60812 5
+    101674: polySurface60812 6
+    101676: polySurface60812 7
+    101678: polySurface60813
+    101680: polySurface60813 1
+    101682: polySurface60813 2
+    101684: polySurface60813 3
+    101686: polySurface60813 4
+    101688: polySurface60813 5
+    101690: polySurface60813 6
+    101692: polySurface60813 7
+    101694: polySurface60814
+    101696: polySurface60814 1
+    101698: polySurface60814 2
+    101700: polySurface60814 3
+    101702: polySurface60814 4
+    101704: polySurface60814 5
+    101706: polySurface60814 6
+    101708: polySurface60814 7
+    101710: polySurface60815
+    101712: polySurface60815 1
+    101714: polySurface60815 2
+    101716: polySurface60815 3
+    101718: polySurface60815 4
+    101720: polySurface60815 5
+    101722: polySurface60815 6
+    101724: polySurface60815 7
+    101726: polySurface60816
+    101728: polySurface60816 1
+    101730: polySurface60816 2
+    101732: polySurface60816 3
+    101734: polySurface60816 4
+    101736: polySurface60816 5
+    101738: polySurface60816 6
+    101740: polySurface60816 7
+    101742: polySurface60817
+    101744: polySurface60817 1
+    101746: polySurface60817 2
+    101748: polySurface60817 3
+    101750: polySurface60817 4
+    101752: polySurface60817 5
+    101754: polySurface60817 6
+    101756: polySurface60817 7
+    101758: polySurface60818
+    101760: polySurface60818 1
+    101762: polySurface60818 2
+    101764: polySurface60818 3
+    101766: polySurface60818 4
+    101768: polySurface60818 5
+    101770: polySurface60818 6
+    101772: polySurface60818 7
+    101774: polySurface60819
+    101776: polySurface60819 1
+    101778: polySurface60819 2
+    101780: polySurface60819 3
+    101782: polySurface60819 4
+    101784: polySurface60819 5
+    101786: polySurface60819 6
+    101788: polySurface60819 7
+    101790: polySurface60820
+    101792: polySurface60820 1
+    101794: polySurface60820 2
+    101796: polySurface60820 3
+    101798: polySurface60820 4
+    101800: polySurface60820 5
+    101802: polySurface60820 6
+    101804: polySurface60820 7
+    101806: polySurface60821
+    101808: polySurface60821 1
+    101810: polySurface60821 2
+    101812: polySurface60821 3
+    101814: polySurface60821 4
+    101816: polySurface60821 5
+    101818: polySurface60821 6
+    101820: polySurface60821 7
+    101822: polySurface60822
+    101824: polySurface60822 1
+    101826: polySurface60822 2
+    101828: polySurface60822 3
+    101830: polySurface60822 4
+    101832: polySurface60822 5
+    101834: polySurface60822 6
+    101836: polySurface60822 7
+    101838: polySurface60823
+    101840: polySurface60823 1
+    101842: polySurface60823 2
+    101844: polySurface60823 3
+    101846: polySurface60823 4
+    101848: polySurface60823 5
+    101850: polySurface60823 6
+    101852: polySurface60823 7
+    101854: polySurface60824
+    101856: polySurface60824 1
+    101858: polySurface60824 2
+    101860: polySurface60824 3
+    101862: polySurface60824 4
+    101864: polySurface60824 5
+    101866: polySurface60824 6
+    101868: polySurface60824 7
+    101870: polySurface60841
+    101872: polySurface60841 1
+    101874: polySurface60841 2
+    101876: polySurface60841 3
+    101878: polySurface60842
+    101880: polySurface60842 1
+    101882: polySurface60842 2
+    101884: polySurface60842 3
+    101886: polySurface60843
+    101888: polySurface60843 1
+    101890: polySurface60843 2
+    101892: polySurface60843 3
+    101894: polySurface60844
+    101896: polySurface60844 1
+    101898: polySurface60844 2
+    101900: polySurface60844 3
+    101902: polySurface60845
+    101904: polySurface60845 1
+    101906: polySurface60845 2
+    101908: polySurface60845 3
+    101910: polySurface60846
+    101912: polySurface60846 1
+    101914: polySurface60846 2
+    101916: polySurface60846 3
+    101918: polySurface60847
+    101920: polySurface60847 1
+    101922: polySurface60847 2
+    101924: polySurface60847 3
+    101926: polySurface60848
+    101928: polySurface60848 1
+    101930: polySurface60848 2
+    101932: polySurface60848 3
+    101934: polySurface60849
+    101936: polySurface60849 1
+    101938: polySurface60849 2
+    101940: polySurface60849 3
+    101942: polySurface60850
+    101944: polySurface60850 1
+    101946: polySurface60850 2
+    101948: polySurface60850 3
+    101950: polySurface60851
+    101952: polySurface60851 1
+    101954: polySurface60851 2
+    101956: polySurface60851 3
+    101958: polySurface60852
+    101960: polySurface60852 1
+    101962: polySurface60852 2
+    101964: polySurface60852 3
+    101966: polySurface60853
+    101968: polySurface60853 1
+    101970: polySurface60853 2
+    101972: polySurface60853 3
+    101974: polySurface60854
+    101976: polySurface60854 1
+    101978: polySurface60854 2
+    101980: polySurface60854 3
+    101982: polySurface60855
+    101984: polySurface60855 1
+    101986: polySurface60855 2
+    101988: polySurface60855 3
+    101990: polySurface60856
+    101992: polySurface60857
+    101994: polySurface60858
+    101996: polySurface60859
+    101998: polySurface60860
+    102000: polySurface60861
+    102002: polySurface60862
+    102004: polySurface60863
+    102006: polySurface60864
+    102008: polySurface60865
+    102010: polySurface60866
+    102012: polySurface60867
+    102014: polySurface60868
+    102016: polySurface60869
+    102018: polySurface60870
+    102020: polySurface60871
+    102022: polySurface60872
+    102024: polySurface60873
+    102026: polySurface60874
+    102028: polySurface60875
+    102030: polySurface60876
+    102032: polySurface60877
+    102034: polySurface60878
+    102036: polySurface60879
+    102038: polySurface60880
+    102040: polySurface60881
+    102042: polySurface60882
+    102044: polySurface60883
+    102046: polySurface60884
+    102048: polySurface60885
+    102050: polySurface60886
+    102052: polySurface60887
+    102054: polySurface60888
+    102056: polySurface91
+    102058: PortableBox_A__14_
+    102060: PortableBox_A__15_
+    102062: PortableBox_A__16_
+    102064: PortableBox_A__17_
+    102066: PortableBox_A__1_
+    102068: PortableBox_A__2_
+    102070: PortableBox_A__3_
+    102072: PortableBox_B__11_
+    102074: PortableBox_B__12_
+    102076: PortableBox_B__13_
+    102078: PortableBox_B__14_
+    102080: PortableBox_B__15_
+    102082: PortableBox_B__1_
+    102084: Printer__1_
+    102086: Printer__2_
+    102088: PrinterPro
+    102090: PrinterPro__1_
+    102092: Pushpin_White
+    102094: Rack__12_1
+    102096: ReceptionClosets__2_
+    102098: ReceptionClosets__5_
+    102100: ReceptionClosets__7_
+    102102: ReceptionTable_cornerOutside__5_
+    102104: RingBinderB__4_
+    102106: Roof
+    102108: Second_1
+    102110: SecretaryDesk__1_
+    102112: SignExitGreen__2_2
+    102114: SistemUnit__8_
+    102116: Smartphone
+    102118: Smartphone__1_2
+    102120: Smoke_Sprinkler
+    102122: Sofa
+    102124: Sofa_Table
+    102126: Sofa_Table1
+    102128: Sofa_Table2
+    102130: stand
+    102132: stand 1
+    102134: stand 2
+    102136: stand 3
+    102138: stand1
+    102140: stand1 1
+    102142: stand1 2
+    102144: stand1 3
+    102146: stand2
+    102148: stand2 1
+    102150: stand2 2
+    102152: stand2 3
+    102154: stand3
+    102156: stand3 1
+    102158: stand3 2
+    102160: stand3 3
+    102162: StandTableWork__12_3
+    102164: StickerGreen
+    102166: StickerPink
+    102168: StickerPink1
+    102170: StickerPink2
+    102172: StickerPink3
+    102174: StickersGreen
+    102176: StickersPink
+    102178: StickersPink1
+    102180: StickersPink2
+    102182: StickersPink3
+    102184: Switch
+    102186: Switch_wire
+    102188: Table
+    102190: table
+    102192: Table 1
+    102194: Table1
+    102196: Table2
+    102198: TableA
+    102200: TableA__1_
+    102202: TableRound_module_8
+    102204: TabletPC
+    102206: Toilet_LOD0
+    102208: ToiletPaper
+    102210: ToiletPartition
+    102212: TrashCan_01__11_
+    102214: TrashCan_01__7_10
+    102216: TrashCan_01__7_8
+    102218: TrashCan_01__7_9
+    102220: TrashCan_01__8_1
+    102222: TrashCan__5_
+    102224: TV
+    102226: TV_for_wall__2_
+    102228: TV_wire
+    102230: Urinal_LOD1
+    102232: Wall2
+    102234: Water
+    102236: Water 1
+    102238: Water 2
+    102240: Water 3
+    102242: Water_extinguisher
+    102244: Water_extinguisher 1
+    102246: Water_extinguisher 2
+    102248: Water_extinguisher 3
+    102250: Wet_Chemical
+    102252: Wet_Chemical 1
+    102254: Wet_Chemical 2
+    102256: Wet_Chemical 3
+    102258: Wet_Chemical_extinguisher1
+    102260: Wet_Chemical_extinguisher1 1
+    102262: Wet_Chemical_extinguisher1 2
+    102264: Wet_Chemical_extinguisher1 3
+    102266: windows
+    400000: _Fire_smoke_detector10
+    400002: _Fire_smoke_detector11
+    400004: _Fire_smoke_detector14
+    400006: _Fire_smoke_detector15
+    400008: _Fire_smoke_detector2
+    400010: _Fire_smoke_detector20
+    400012: _Fire_smoke_detector21
+    400014: _Fire_smoke_detector22
+    400016: _Fire_smoke_detector23
+    400018: _Fire_smoke_detector24
+    400020: _Fire_smoke_detector25
+    400022: _Fire_smoke_detector26
+    400024: _Fire_smoke_detector27
+    400026: _Fire_smoke_detector28
+    400028: _Fire_smoke_detector29
+    400030: _Fire_smoke_detector3
+    400032: _Fire_smoke_detector30
+    400034: _Fire_smoke_detector31
+    400036: _Fire_smoke_detector32
+    400038: _Fire_smoke_detector33
+    400040: _Fire_smoke_detector34
+    400042: _Fire_smoke_detector35
+    400044: _Fire_smoke_detector36
+    400046: _Fire_smoke_detector37
+    400048: _Fire_smoke_detector38
+    400050: _Fire_smoke_detector39
+    400052: _Fire_smoke_detector4
+    400054: _Fire_smoke_detector40
+    400056: _Fire_smoke_detector41
+    400058: _Fire_smoke_detector42
+    400060: _Fire_smoke_detector43
+    400062: _Fire_smoke_detector44
+    400064: _Fire_smoke_detector45
+    400066: _Fire_smoke_detector47
+    400068: _Fire_smoke_detector48
+    400070: _Fire_smoke_detector49
+    400072: _Fire_smoke_detector5
+    400074: _Fire_smoke_detector50
+    400076: _Fire_smoke_detector51
+    400078: _Fire_smoke_detector52
+    400080: _Fire_smoke_detector53
+    400082: _Fire_smoke_detector54
+    400084: _Fire_smoke_detector6
+    400086: _Fire_smoke_detector7
+    400088: _Fire_smoke_detector8
+    400090: _Fire_smoke_detector9
+    400092: _Fire_sprinkler10
+    400094: _Fire_sprinkler11
+    400096: _Fire_sprinkler12
+    400098: _Fire_sprinkler15
+    400100: _Fire_sprinkler16
+    400102: _Fire_sprinkler21
+    400104: _Fire_sprinkler22
+    400106: _Fire_sprinkler23
+    400108: _Fire_sprinkler24
+    400110: _Fire_sprinkler25
+    400112: _Fire_sprinkler26
+    400114: _Fire_sprinkler27
+    400116: _Fire_sprinkler28
+    400118: _Fire_sprinkler29
+    400120: _Fire_sprinkler3
+    400122: _Fire_sprinkler30
+    400124: _Fire_sprinkler31
+    400126: _Fire_sprinkler32
+    400128: _Fire_sprinkler33
+    400130: _Fire_sprinkler34
+    400132: _Fire_sprinkler35
+    400134: _Fire_sprinkler36
+    400136: _Fire_sprinkler37
+    400138: _Fire_sprinkler38
+    400140: _Fire_sprinkler39
+    400142: _Fire_sprinkler4
+    400144: _Fire_sprinkler40
+    400146: _Fire_sprinkler41
+    400148: _Fire_sprinkler42
+    400150: _Fire_sprinkler43
+    400152: _Fire_sprinkler44
+    400154: _Fire_sprinkler45
+    400156: _Fire_sprinkler46
+    400158: _Fire_sprinkler48
+    400160: _Fire_sprinkler49
+    400162: _Fire_sprinkler5
+    400164: _Fire_sprinkler50
+    400166: _Fire_sprinkler51
+    400168: _Fire_sprinkler52
+    400170: _Fire_sprinkler53
+    400172: _Fire_sprinkler54
+    400174: _Fire_sprinkler55
+    400176: _Fire_sprinkler6
+    400178: _Fire_sprinkler7
+    400180: _Fire_sprinkler8
+    400182: _Fire_sprinkler9
+    400184: A4_9
+    400186: AC
+    400188: AC11
+    400190: AC2
+    400192: AC2 1
+    400194: AC3
+    400196: AC3 1
+    400198: AC9
+    400200: AC_Duct1
+    400202: AC_Duct10
+    400204: AC_Duct11
+    400206: AC_Duct12
+    400208: AC_Duct13
+    400210: AC_Duct14
+    400212: AC_Duct15
+    400214: AC_Duct16
+    400216: AC_Duct17
+    400218: AC_Duct18
+    400220: AC_Duct19
+    400222: AC_Duct2
+    400224: AC_Duct20
+    400226: AC_Duct21
+    400228: AC_Duct22
+    400230: AC_Duct26
+    400232: AC_Duct27
+    400234: AC_Duct28
+    400236: AC_Duct29
+    400238: AC_Duct3
+    400240: AC_Duct30
+    400242: AC_Duct31
+    400244: AC_Duct32
+    400246: AC_Duct33
+    400248: AC_Duct34
+    400250: AC_Duct35
+    400252: AC_Duct36
+    400254: AC_Duct37
+    400256: AC_Duct38
+    400258: AC_Duct39
+    400260: AC_Duct4
+    400262: AC_Duct40
+    400264: AC_Duct41
+    400266: AC_Duct42
+    400268: AC_Duct43
+    400270: AC_Duct47
+    400272: AC_Duct49
+    400274: AC_Duct5
+    400276: AC_Duct50
+    400278: AC_Duct52
+    400280: AC_Duct53
+    400282: AC_Duct55
+    400284: AC_Duct56
+    400286: AC_Duct58
+    400288: AC_Duct59
+    400290: AC_Duct6
+    400292: AC_Duct60
+    400294: AC_Duct61
+    400296: AC_Duct62
+    400298: AC_Duct63
+    400300: AC_Duct64
+    400302: AC_Duct65
+    400304: AC_Duct66
+    400306: AC_Duct67
+    400308: AC_Duct68
+    400310: AC_Duct7
+    400312: AC_Duct8
+    400314: AC_Duct9
+    400316: Book_01
+    400318: Book_16_5
+    400320: Book_16_6
+    400322: Book_22
+    400324: Book_51
+    400326: Book_52
+    400328: BookcaseA__3_
+    400330: BookcaseA_books
+    400332: BookcaseA_books__1_
+    400334: Books_01_2
+    400336: Books_02__1_
+    400338: Books_06__1_
+    400340: Books_18__1_
+    400342: Books_23_2
+    400344: Books_24
+    400346: Box
+    400348: Box_1
+    400350: Box_2
+    400352: Box__10_
+    400354: Box__11_
+    400356: Box__12_
+    400358: Box__13_
+    400360: Box__14_
+    400362: Box__15_
+    400364: Box__16_
+    400366: Box__176_
+    400368: Box__177_
+    400370: Box__1_
+    400372: Box__2_
+    400374: Box__3_
+    400376: Box__4_
+    400378: Box__5_
+    400380: Box__6_
+    400382: Box__7_
+    400384: Box__84_
+    400386: Box__85_
+    400388: Box__86_
+    400390: Box__87_
+    400392: Box__88_
+    400394: Box__89_
+    400396: Box__8_
+    400398: Box__92_
+    400400: Box__93_
+    400402: Box__94_
+    400404: Box__95_
+    400406: Box__9_
+    400408: BoxBig
+    400410: BoxBig_1
+    400412: BoxBig_2
+    400414: BoxBig_3
+    400416: BoxBig_4
+    400418: BoxBig__100_
+    400420: BoxBig__101_
+    400422: BoxBig__102_
+    400424: BoxBig__103_
+    400426: BoxBig__104_
+    400428: BoxBig__105_
+    400430: BoxBig__106_
+    400432: BoxBig__107_
+    400434: BoxBig__108_
+    400436: BoxBig__109_
+    400438: BoxBig__110_
+    400440: BoxBig__111_
+    400442: BoxBig__112_
+    400444: BoxBig__113_
+    400446: BoxBig__114_
+    400448: BoxBig__115_
+    400450: BoxBig__116_
+    400452: BoxBig__117_
+    400454: BoxBig__118_
+    400456: BoxBig__119_
+    400458: BoxBig__120_
+    400460: BoxBig__121_
+    400462: BoxBig__122_
+    400464: BoxBig__123_
+    400466: BoxBig__124_
+    400468: BoxBig__125_
+    400470: BoxBig__126_
+    400472: BoxBig__127_
+    400474: BoxBig__128_
+    400476: BoxBig__129_
+    400478: BoxBig__130_
+    400480: BoxBig__131_
+    400482: BoxBig__132_
+    400484: BoxBig__133_
+    400486: BoxBig__134_
+    400488: BoxBig__135_
+    400490: BoxBig__136_
+    400492: BoxBig__137_
+    400494: BoxBig__138_
+    400496: BoxBig__139_
+    400498: BoxBig__140_
+    400500: BoxBig__141_
+    400502: BoxBig__142_
+    400504: BoxBig__143_
+    400506: BoxBig__144_
+    400508: BoxBig__145_
+    400510: BoxBig__146_
+    400512: BoxBig__147_
+    400514: BoxBig__148_
+    400516: BoxBig__149_
+    400518: BoxBig__150_
+    400520: BoxBig__151_
+    400522: BoxBig__152_
+    400524: BoxBig__153_
+    400526: BoxBig__154_
+    400528: BoxBig__155_
+    400530: BoxBig__1_
+    400532: BoxBig__24_
+    400534: BoxBig__25_
+    400536: BoxBig__26_
+    400538: BoxBig__27_
+    400540: BoxBig__28_
+    400542: BoxBig__29_
+    400544: BoxBig__2_
+    400546: BoxBig__30_
+    400548: BoxBig__31_
+    400550: BoxBig__32_
+    400552: BoxBig__33_
+    400554: BoxBig__34_
+    400556: BoxBig__35_
+    400558: BoxBig__36_
+    400560: BoxBig__37_
+    400562: BoxBig__38_
+    400564: BoxBig__39_
+    400566: BoxBig__3_
+    400568: BoxBig__40_
+    400570: BoxBig__41_
+    400572: BoxBig__42_
+    400574: BoxBig__43_
+    400576: BoxBig__44_
+    400578: BoxBig__45_
+    400580: BoxBig__46_
+    400582: BoxBig__47_
+    400584: BoxBig__48_
+    400586: BoxBig__49_
+    400588: BoxBig__50_
+    400590: BoxBig__51_
+    400592: BoxBig__52_
+    400594: BoxBig__71_
+    400596: BoxBig__72_
+    400598: BoxBig__73_
+    400600: BoxBig__74_
+    400602: BoxBig__78_
+    400604: BoxBig__79_
+    400606: BoxBig__7_
+    400608: BoxBig__80_
+    400610: BoxBig__81_
+    400612: BoxBig__82_
+    400614: BoxBig__83_
+    400616: BoxBig__84_
+    400618: BoxBig__85_
+    400620: BoxBig__86_
+    400622: BoxBig__87_
+    400624: BoxBig__88_
+    400626: BoxBig__89_
+    400628: BoxBig__90_
+    400630: BoxBig__91_
+    400632: BoxBig__92_
+    400634: BoxBig__93_
+    400636: BoxBig__94_
+    400638: BoxBig__95_
+    400640: BoxBig__96_
+    400642: BoxBig__97_
+    400644: BoxBig__98_
+    400646: BoxBig__99_
+    400648: BoxBigOpen
+    400650: BoxBigOpen__1_
+    400652: BoxOpen
+    400654: BoxOpen__1_
+    400656: BoxOpen__2_
+    400658: BoxPortable_A
+    400660: BoxPortable_B
+    400662: BoxPortable_C
+    400664: BoxPortable_C_2
+    400666: BoxPortable_D
+    400668: BoxPortableCap_C
+    400670: BoxPortableCap_C_1
+    400672: BoxPortableCap_D
+    400674: CarpetPath_02__4_
+    400676: CCTV_1__10_
+    400678: CCTV_1__6_
+    400680: CCTV_1__7_
+    400682: CCTV_1__8_
+    400684: Chair
+    400686: Clock_01_LOD0
+    400688: Clock_03
+    400690: CO2_extinguisher
+    400692: CO2_extinguisher 1
+    400694: CO2_extinguisher 2
+    400696: CO2_extinguisher 3
+    400698: Cube27
+    400700: Cup_full
+    400702: Cup_half_full
+    400704: Cupboard
+    400706: Cupboard__1_
+    400708: Cupboard__3_
+    400710: Cupboard__6_
+    400712: DecorativeTop__10_
+    400714: DecorativeTop__1_
+    400716: DecorativeTop__2_
+    400718: DecorativeTop__4_
+    400720: DecorativeTop__5_
+    400722: DecorativeTop__6_
+    400724: DecorativeTop__8_1
+    400726: Document__2_
+    400728: Document__2_1
+    400730: Document__2_2
+    400732: Document__2_3
+    400734: Document__4_
+    400736: Document__5_
+    400738: Donut__1_
+    400740: Door
+    400742: Door1
+    400744: Door10
+    400746: Door11
+    400748: Door2
+    400750: Door3
+    400752: Door4
+    400754: Door5
+    400756: Door6
+    400758: Door8
+    400760: Door9
+    400762: Door_2_5m__1_2
+    400764: Door_2_5m__1_2 1
+    400766: Door_2_5m__1_2 2
+    400768: Door_2_5m__1_2 3
+    400770: Door_2_5m__1_2 4
+    400772: Door_2_5m__1_2 5
+    400774: Door_2_5m__1_2 6
+    400776: Door_L_7
+    400778: Door_L_7 1
+    400780: Door_L_7 2
+    400782: Door_L_7 3
+    400784: Door_L_7 4
+    400786: Door_L_7 5
+    400788: Door_L_7 6
+    400790: Door_L_7 7
+    400792: Door_L_7 8
+    400794: Door_R_10
+    400796: Door_R_11
+    400798: Door_R_7
+    400800: Door_R_7 1
+    400802: Door_R_7 10
+    400804: Door_R_7 2
+    400806: Door_R_7 3
+    400808: Door_R_7 4
+    400810: Door_R_7 5
+    400812: Door_R_7 6
+    400814: Door_R_7 7
+    400816: Door_R_7 8
+    400818: Door_R_7 9
+    400820: Door_R_8
+    400822: Door_R_9
+    400824: DoorA
+    400826: DoorA1
+    400828: extension
+    400830: ExtinguisherMounting__1_
+    400832: ExtinguisherMounting__1_ 1
+    400834: ExtinguisherMounting__1_ 2
+    400836: ExtinguisherMounting__1_ 3
+    400838: ExtinguisherMounting__1_1
+    400840: ExtinguisherMounting__1_1 1
+    400842: ExtinguisherMounting__1_1 2
+    400844: ExtinguisherMounting__1_1 3
+    400846: ExtinguisherMounting__1_2
+    400848: ExtinguisherMounting__1_2 1
+    400850: ExtinguisherMounting__1_2 2
+    400852: ExtinguisherMounting__1_2 3
+    400854: ExtinguisherMounting__1_3
+    400856: ExtinguisherMounting__1_3 1
+    400858: ExtinguisherMounting__1_3 2
+    400860: ExtinguisherMounting__1_3 3
+    400862: Felt__Pen_Pink__1_
+    400864: Felt__Pen_Pink__2_
+    400866: Felt__Pen_Ultramarin__1_
+    400868: Felt__Pen_Ultramarin__2_
+    400870: FeltPen_Blue
+    400872: FeltPen_Blue1
+    400874: FeltPen_Blue2
+    400876: FeltPen_Blue3
+    400878: FileCabinet_01__19_1
+    400880: FileCabinet_01__8_
+    400882: FileCabinet_02__5_
+    400884: //RootNode
+    400886: fire_alarm1
+    400888: fire_alarm1 1
+    400890: fire_alarm1 2
+    400892: fire_alarm1 3
+    400894: Fire_Extinguishers2
+    400896: Fire_Extinguishers4
+    400898: Fire_Extinguishers5
+    400900: Fire_Extinguishers6
+    400902: Floor_6m__30_1
+    400904: Foam_extinguisher
+    400906: Foam_extinguisher 1
+    400908: Foam_extinguisher 2
+    400910: Foam_extinguisher 3
+    400912: Foam_Spray
+    400914: Foam_Spray 1
+    400916: Foam_Spray 2
+    400918: Foam_Spray 3
+    400920: Foam_Spray1
+    400922: Foam_Spray1 1
+    400924: Foam_Spray1 2
+    400926: Foam_Spray1 3
+    400928: Frame01
+    400930: Frame02
+    400932: Frame15
+    400934: Glass_1m__27_2
+    400936: GlassDecor_1m__1_1
+    400938: GlassDecor_1m__1_1 1
+    400940: GlassDecor_1m__1_1 2
+    400942: group
+    400944: group1
+    400946: group10
+    400948: group2
+    400950: group3
+    400952: group9
+    400954: HandDryer__6_
+    400956: Hours
+    400958: Kerosene
+    400960: Kerosene1
+    400962: Kerosene2
+    400964: Kerosene3
+    400966: Kerosene4
+    400968: Kerosene5
+    400970: Kerosene6
+    400972: Keyboard
+    400974: Keyboard__3_
+    400976: Keyboard___8_4
+    400978: Lamp02
+    400980: Lamp02__4_
+    400982: LampTechnicalA
+    400984: LampTechnicalA__1_
+    400986: LampTechnicalA__2_
+    400988: Laptop
+    400990: Light1
+    400992: Light10
+    400994: Light11
+    400996: Light12
+    400998: Light13
+    401000: Light14
+    401002: Light15
+    401004: Light16
+    401006: Light17
+    401008: Light18
+    401010: Light19
+    401012: Light2
+    401014: Light20
+    401016: Light21
+    401018: Light22
+    401020: Light23
+    401022: Light25
+    401024: Light27
+    401026: Light28
+    401028: Light29
+    401030: Light3
+    401032: Light30
+    401034: Light31
+    401036: Light32
+    401038: Light33
+    401040: Light34
+    401042: Light35
+    401044: Light36
+    401046: Light37
+    401048: Light38
+    401050: Light39
+    401052: Light4
+    401054: Light40
+    401056: Light41
+    401058: Light42
+    401060: Light43
+    401062: Light44
+    401064: Light45
+    401066: Light46
+    401068: Light47
+    401070: Light48
+    401072: Light49
+    401074: Light5
+    401076: Light50
+    401078: Light51
+    401080: Light52
+    401082: Light53
+    401084: Light54
+    401086: Light55
+    401088: Light56
+    401090: Light57
+    401092: Light58
+    401094: Light59
+    401096: Light6
+    401098: Light60
+    401100: Light61
+    401102: Light62
+    401104: Light63
+    401106: Light64
+    401108: Light65
+    401110: Light66
+    401112: Light67
+    401114: Light68
+    401116: Light69
+    401118: Light7
+    401120: Light70
+    401122: Light71
+    401124: Light72
+    401126: Light73
+    401128: Light8
+    401130: Light9
+    401132: liver
+    401134: liver 1
+    401136: liver 2
+    401138: liver 3
+    401140: LockCode__1_
+    401142: main_body
+    401144: main_body 1
+    401146: main_body 2
+    401148: main_body 3
+    401150: Marker_Blue
+    401152: Marker_Blue2
+    401154: Marker_Blue3
+    401156: Marker_Blue_1
+    401158: Marker_Green
+    401160: Marker_Red
+    401162: Marker_Red1
+    401164: Marker_Red2
+    401166: Marker_Red3
+    401168: Marker_Yellow
+    401170: Marker_Yellow1
+    401172: Marker_Yellow2
+    401174: Marker_Yellow3
+    401176: Mat
+    401178: meeting_room_scenario_assets
+    401180: Mirror__8_
+    401182: Monitor___3_1
+    401184: Mouse_01
+    401186: Mouse__12_
+    401188: Mouse___5_10
+    401190: MousePad__1_
+    401192: MousePad__8_
+    401194: NotebookOpen
+    401196: NotebookOpen__1_1
+    401198: NotebookOpen__2_
+    401200: Pack_Paper__3_
+    401202: Paper
+    401204: Paper1
+    401206: Paper2
+    401208: Paper3
+    401210: Paper__3_
+    401212: PaperStack_A
+    401214: PaperStack_A1
+    401216: PaperStack_A1 1
+    401218: PaperStack_A1 2
+    401220: PaperStack_A2
+    401222: PaperStack_A3
+    401224: PaperStack_A4
+    401226: PaperStack_A4 1
+    401228: PaperStack_A4 2
+    401230: PaperStack_A5
+    401232: PaperStack_A5 1
+    401234: PaperStack_A5 2
+    401236: PaperStack_A6
+    401238: PaperStack_A6 1
+    401240: PaperStack_A6 2
+    401242: PaperStack_A7
+    401244: PaperStack_A7 1
+    401246: PaperStack_A7 2
+    401248: PaperTray__9_
+    401250: PC
+    401252: PC__3_
+    401254: PC__5_5
+    401256: pCube100
+    401258: pCube101
+    401260: pCube99
+    401262: pCylinder49
+    401264: Pen
+    401266: Pen__1_
+    401268: Pencil_Black
+    401270: Pencil_Black__1_
+    401272: Pencil_Black__2_
+    401274: Pencil_Black__3_
+    401276: Pencil_Black__4_
+    401278: Pencil_Black__5_
+    401280: Pencil_Black__6_
+    401282: Pencil_Black__7_
+    401284: Pencil_Blue
+    401286: Pencil_Blue__1_
+    401288: Pencil_Blue__2_
+    401290: Pencil_Blue__4_
+    401292: Pencil_Brown
+    401294: Pencil_Brown__1_
+    401296: Pencil_Gray
+    401298: Pencil_Gray1
+    401300: Pencil_Gray2
+    401302: Pencil_Gray3
+    401304: Pencil_Gray__1_
+    401306: Pencil_Red
+    401308: Pencil_Red__2_
+    401310: Pencil_Red__3_
+    401312: Pencil_White
+    401314: Pencil_White__2_
+    401316: PencilCase_filled
+    401318: PencilCup
+    401320: PencilCup__2_
+    401322: Picture_02Shape
+    401324: Picture_08
+    401326: Pillars
+    401328: Pillars_polySurface407
+    401330: plant
+    401332: Plant01_LOD0_1
+    401334: Plant01_LOD1
+    401336: Plant01_LOD1_2
+    401338: Plant02_LOD1
+    401340: Plant03_LOD1
+    401342: Plant03_LOD1_1
+    401344: polySurface109
+    401346: polySurface112
+    401348: polySurface116
+    401350: polySurface247
+    401352: polySurface248
+    401354: polySurface249
+    401356: polySurface250
+    401358: polySurface251
+    401360: polySurface252
+    401362: polySurface253
+    401364: polySurface254
+    401366: polySurface255
+    401368: polySurface256
+    401370: polySurface257
+    401372: polySurface258
+    401374: polySurface259
+    401376: polySurface260
+    401378: polySurface261
+    401380: polySurface262
+    401382: polySurface263
+    401384: polySurface264
+    401386: polySurface265
+    401388: polySurface266
+    401390: polySurface267
+    401392: polySurface268
+    401394: polySurface269
+    401396: polySurface270
+    401398: polySurface271
+    401400: polySurface272
+    401402: polySurface273
+    401404: polySurface274
+    401406: polySurface275
+    401408: polySurface276
+    401410: polySurface277
+    401412: polySurface278
+    401414: polySurface279
+    401416: polySurface280
+    401418: polySurface281
+    401420: polySurface282
+    401422: polySurface283
+    401424: polySurface284
+    401426: polySurface285
+    401428: polySurface286
+    401430: polySurface287
+    401432: polySurface288
+    401434: polySurface289
+    401436: polySurface290
+    401438: polySurface291
+    401440: polySurface292
+    401442: polySurface293
+    401444: polySurface294
+    401446: polySurface295
+    401448: polySurface296
+    401450: polySurface297
+    401452: polySurface298
+    401454: polySurface351
+    401456: polySurface388
+    401458: polySurface395
+    401460: polySurface399
+    401462: polySurface400
+    401464: polySurface400 1
+    401466: polySurface400 2
+    401468: polySurface401
+    401470: polySurface404
+    401472: polySurface406
+    401474: polySurface407
+    401476: polySurface407 1
+    401478: polySurface407 2
+    401480: polySurface410
+    401482: polySurface411
+    401484: polySurface412
+    401486: polySurface413
+    401488: polySurface415
+    401490: polySurface60705
+    401492: polySurface60706
+    401494: polySurface60707
+    401496: polySurface60708
+    401498: polySurface60720
+    401500: polySurface60790
+    401502: polySurface60790 1
+    401504: polySurface60790 2
+    401506: polySurface60793
+    401508: polySurface60794
+    401510: polySurface60795
+    401512: polySurface60795 1
+    401514: polySurface60795 2
+    401516: polySurface60795 3
+    401518: polySurface60796
+    401520: polySurface60796 1
+    401522: polySurface60796 2
+    401524: polySurface60796 3
+    401526: polySurface60797
+    401528: polySurface60797 1
+    401530: polySurface60797 2
+    401532: polySurface60797 3
+    401534: polySurface60798
+    401536: polySurface60798 1
+    401538: polySurface60798 2
+    401540: polySurface60798 3
+    401542: polySurface60799
+    401544: polySurface60799 1
+    401546: polySurface60799 2
+    401548: polySurface60799 3
+    401550: polySurface60800
+    401552: polySurface60800 1
+    401554: polySurface60800 2
+    401556: polySurface60800 3
+    401558: polySurface60801
+    401560: polySurface60801 1
+    401562: polySurface60801 2
+    401564: polySurface60801 3
+    401566: polySurface60802
+    401568: polySurface60802 1
+    401570: polySurface60802 2
+    401572: polySurface60802 3
+    401574: polySurface60803
+    401576: polySurface60803 1
+    401578: polySurface60803 2
+    401580: polySurface60803 3
+    401582: polySurface60804
+    401584: polySurface60804 1
+    401586: polySurface60804 2
+    401588: polySurface60804 3
+    401590: polySurface60805
+    401592: polySurface60805 1
+    401594: polySurface60805 2
+    401596: polySurface60805 3
+    401598: polySurface60806
+    401600: polySurface60806 1
+    401602: polySurface60806 2
+    401604: polySurface60806 3
+    401606: polySurface60807
+    401608: polySurface60807 1
+    401610: polySurface60807 2
+    401612: polySurface60807 3
+    401614: polySurface60808
+    401616: polySurface60808 1
+    401618: polySurface60808 2
+    401620: polySurface60808 3
+    401622: polySurface60809
+    401624: polySurface60809 1
+    401626: polySurface60809 2
+    401628: polySurface60809 3
+    401630: polySurface60810
+    401632: polySurface60810 1
+    401634: polySurface60810 2
+    401636: polySurface60810 3
+    401638: polySurface60810 4
+    401640: polySurface60810 5
+    401642: polySurface60810 6
+    401644: polySurface60810 7
+    401646: polySurface60811
+    401648: polySurface60811 1
+    401650: polySurface60811 2
+    401652: polySurface60811 3
+    401654: polySurface60811 4
+    401656: polySurface60811 5
+    401658: polySurface60811 6
+    401660: polySurface60811 7
+    401662: polySurface60812
+    401664: polySurface60812 1
+    401666: polySurface60812 2
+    401668: polySurface60812 3
+    401670: polySurface60812 4
+    401672: polySurface60812 5
+    401674: polySurface60812 6
+    401676: polySurface60812 7
+    401678: polySurface60813
+    401680: polySurface60813 1
+    401682: polySurface60813 2
+    401684: polySurface60813 3
+    401686: polySurface60813 4
+    401688: polySurface60813 5
+    401690: polySurface60813 6
+    401692: polySurface60813 7
+    401694: polySurface60814
+    401696: polySurface60814 1
+    401698: polySurface60814 2
+    401700: polySurface60814 3
+    401702: polySurface60814 4
+    401704: polySurface60814 5
+    401706: polySurface60814 6
+    401708: polySurface60814 7
+    401710: polySurface60815
+    401712: polySurface60815 1
+    401714: polySurface60815 2
+    401716: polySurface60815 3
+    401718: polySurface60815 4
+    401720: polySurface60815 5
+    401722: polySurface60815 6
+    401724: polySurface60815 7
+    401726: polySurface60816
+    401728: polySurface60816 1
+    401730: polySurface60816 2
+    401732: polySurface60816 3
+    401734: polySurface60816 4
+    401736: polySurface60816 5
+    401738: polySurface60816 6
+    401740: polySurface60816 7
+    401742: polySurface60817
+    401744: polySurface60817 1
+    401746: polySurface60817 2
+    401748: polySurface60817 3
+    401750: polySurface60817 4
+    401752: polySurface60817 5
+    401754: polySurface60817 6
+    401756: polySurface60817 7
+    401758: polySurface60818
+    401760: polySurface60818 1
+    401762: polySurface60818 2
+    401764: polySurface60818 3
+    401766: polySurface60818 4
+    401768: polySurface60818 5
+    401770: polySurface60818 6
+    401772: polySurface60818 7
+    401774: polySurface60819
+    401776: polySurface60819 1
+    401778: polySurface60819 2
+    401780: polySurface60819 3
+    401782: polySurface60819 4
+    401784: polySurface60819 5
+    401786: polySurface60819 6
+    401788: polySurface60819 7
+    401790: polySurface60820
+    401792: polySurface60820 1
+    401794: polySurface60820 2
+    401796: polySurface60820 3
+    401798: polySurface60820 4
+    401800: polySurface60820 5
+    401802: polySurface60820 6
+    401804: polySurface60820 7
+    401806: polySurface60821
+    401808: polySurface60821 1
+    401810: polySurface60821 2
+    401812: polySurface60821 3
+    401814: polySurface60821 4
+    401816: polySurface60821 5
+    401818: polySurface60821 6
+    401820: polySurface60821 7
+    401822: polySurface60822
+    401824: polySurface60822 1
+    401826: polySurface60822 2
+    401828: polySurface60822 3
+    401830: polySurface60822 4
+    401832: polySurface60822 5
+    401834: polySurface60822 6
+    401836: polySurface60822 7
+    401838: polySurface60823
+    401840: polySurface60823 1
+    401842: polySurface60823 2
+    401844: polySurface60823 3
+    401846: polySurface60823 4
+    401848: polySurface60823 5
+    401850: polySurface60823 6
+    401852: polySurface60823 7
+    401854: polySurface60824
+    401856: polySurface60824 1
+    401858: polySurface60824 2
+    401860: polySurface60824 3
+    401862: polySurface60824 4
+    401864: polySurface60824 5
+    401866: polySurface60824 6
+    401868: polySurface60824 7
+    401870: polySurface60841
+    401872: polySurface60841 1
+    401874: polySurface60841 2
+    401876: polySurface60841 3
+    401878: polySurface60842
+    401880: polySurface60842 1
+    401882: polySurface60842 2
+    401884: polySurface60842 3
+    401886: polySurface60843
+    401888: polySurface60843 1
+    401890: polySurface60843 2
+    401892: polySurface60843 3
+    401894: polySurface60844
+    401896: polySurface60844 1
+    401898: polySurface60844 2
+    401900: polySurface60844 3
+    401902: polySurface60845
+    401904: polySurface60845 1
+    401906: polySurface60845 2
+    401908: polySurface60845 3
+    401910: polySurface60846
+    401912: polySurface60846 1
+    401914: polySurface60846 2
+    401916: polySurface60846 3
+    401918: polySurface60847
+    401920: polySurface60847 1
+    401922: polySurface60847 2
+    401924: polySurface60847 3
+    401926: polySurface60848
+    401928: polySurface60848 1
+    401930: polySurface60848 2
+    401932: polySurface60848 3
+    401934: polySurface60849
+    401936: polySurface60849 1
+    401938: polySurface60849 2
+    401940: polySurface60849 3
+    401942: polySurface60850
+    401944: polySurface60850 1
+    401946: polySurface60850 2
+    401948: polySurface60850 3
+    401950: polySurface60851
+    401952: polySurface60851 1
+    401954: polySurface60851 2
+    401956: polySurface60851 3
+    401958: polySurface60852
+    401960: polySurface60852 1
+    401962: polySurface60852 2
+    401964: polySurface60852 3
+    401966: polySurface60853
+    401968: polySurface60853 1
+    401970: polySurface60853 2
+    401972: polySurface60853 3
+    401974: polySurface60854
+    401976: polySurface60854 1
+    401978: polySurface60854 2
+    401980: polySurface60854 3
+    401982: polySurface60855
+    401984: polySurface60855 1
+    401986: polySurface60855 2
+    401988: polySurface60855 3
+    401990: polySurface60856
+    401992: polySurface60857
+    401994: polySurface60858
+    401996: polySurface60859
+    401998: polySurface60860
+    402000: polySurface60861
+    402002: polySurface60862
+    402004: polySurface60863
+    402006: polySurface60864
+    402008: polySurface60865
+    402010: polySurface60866
+    402012: polySurface60867
+    402014: polySurface60868
+    402016: polySurface60869
+    402018: polySurface60870
+    402020: polySurface60871
+    402022: polySurface60872
+    402024: polySurface60873
+    402026: polySurface60874
+    402028: polySurface60875
+    402030: polySurface60876
+    402032: polySurface60877
+    402034: polySurface60878
+    402036: polySurface60879
+    402038: polySurface60880
+    402040: polySurface60881
+    402042: polySurface60882
+    402044: polySurface60883
+    402046: polySurface60884
+    402048: polySurface60885
+    402050: polySurface60886
+    402052: polySurface60887
+    402054: polySurface60888
+    402056: polySurface91
+    402058: PortableBox_A__14_
+    402060: PortableBox_A__15_
+    402062: PortableBox_A__16_
+    402064: PortableBox_A__17_
+    402066: PortableBox_A__1_
+    402068: PortableBox_A__2_
+    402070: PortableBox_A__3_
+    402072: PortableBox_B__11_
+    402074: PortableBox_B__12_
+    402076: PortableBox_B__13_
+    402078: PortableBox_B__14_
+    402080: PortableBox_B__15_
+    402082: PortableBox_B__1_
+    402084: Printer__1_
+    402086: Printer__2_
+    402088: PrinterPro
+    402090: PrinterPro__1_
+    402092: Pushpin_White
+    402094: Rack__12_1
+    402096: ReceptionClosets__2_
+    402098: ReceptionClosets__5_
+    402100: ReceptionClosets__7_
+    402102: ReceptionTable_cornerOutside__5_
+    402104: RingBinderB__4_
+    402106: Roof
+    402108: Second_1
+    402110: SecretaryDesk__1_
+    402112: SignExitGreen__2_2
+    402114: SistemUnit__8_
+    402116: Smartphone
+    402118: Smartphone__1_2
+    402120: Smoke_Sprinkler
+    402122: Sofa
+    402124: Sofa_Table
+    402126: Sofa_Table1
+    402128: Sofa_Table2
+    402130: stand
+    402132: stand 1
+    402134: stand 2
+    402136: stand 3
+    402138: stand1
+    402140: stand1 1
+    402142: stand1 2
+    402144: stand1 3
+    402146: stand2
+    402148: stand2 1
+    402150: stand2 2
+    402152: stand2 3
+    402154: stand3
+    402156: stand3 1
+    402158: stand3 2
+    402160: stand3 3
+    402162: StandTableWork__12_3
+    402164: StickerGreen
+    402166: StickerPink
+    402168: StickerPink1
+    402170: StickerPink2
+    402172: StickerPink3
+    402174: StickersGreen
+    402176: StickersPink
+    402178: StickersPink1
+    402180: StickersPink2
+    402182: StickersPink3
+    402184: Switch
+    402186: Switch_wire
+    402188: Table
+    402190: table
+    402192: Table 1
+    402194: Table1
+    402196: Table2
+    402198: TableA
+    402200: TableA__1_
+    402202: TableRound_module_8
+    402204: TabletPC
+    402206: Toilet_LOD0
+    402208: ToiletPaper
+    402210: ToiletPartition
+    402212: TrashCan_01__11_
+    402214: TrashCan_01__7_10
+    402216: TrashCan_01__7_8
+    402218: TrashCan_01__7_9
+    402220: TrashCan_01__8_1
+    402222: TrashCan__5_
+    402224: TV
+    402226: TV_for_wall__2_
+    402228: TV_wire
+    402230: Urinal_LOD1
+    402232: Wall2
+    402234: Water
+    402236: Water 1
+    402238: Water 2
+    402240: Water 3
+    402242: Water_extinguisher
+    402244: Water_extinguisher 1
+    402246: Water_extinguisher 2
+    402248: Water_extinguisher 3
+    402250: Wet_Chemical
+    402252: Wet_Chemical 1
+    402254: Wet_Chemical 2
+    402256: Wet_Chemical 3
+    402258: Wet_Chemical_extinguisher1
+    402260: Wet_Chemical_extinguisher1 1
+    402262: Wet_Chemical_extinguisher1 2
+    402264: Wet_Chemical_extinguisher1 3
+    402266: windows
+    2100000: Frames_mtl
+    2100002: Glass_mtl
+    2100004: CCTV_mtl
+    2100006: Props_mtl
+    2100008: PC_mtl
+    2100010: PC_OFF_mtl
+    2100012: DoorA_mtl
+    2100014: NotebookOpen_mtl
+    2100016: Reception_mtl
+    2100018: Books_mtl
+    2100020: Table_mtl
+    2100022: Pen_mtl
+    2100024: Smartphone_mtl
+    2100026: LampTechnical_mtl
+    2100028: SecretaryDesk_mtl
+    2100030: Lamp02_mtl
+    2100032: ToiletProps_mtl
+    2100034: Printer_mtl
+    2100036: Cup_mtl
+    2100038: LockCode_mtl
+    2100040: Board_mtl
+    2100042: Window
+    2100044: TrashCan_mtl
+    2100046: RackA_mtl
+    2100048: PC__mtl
+    2100050: Donut_mtl
+    2100052: TableWork_mtl
+    2100054: brown
+    2100056: Wood_texture
+    2100058: black_texture_steel2
+    2100060: Cream_leather_textyre2
+    2100062: MarkerBoard_mtl
+    2100064: PaperTray_mtl
+    2100066: Ceiling_02
+    2100068: Light
+    2100070: AC_Duct
+    2100072: Black2
+    2100074: Switch_Board
+    2100076: Fire_Extinguisher_Water1
+    2100078: Extinguisher_mtl
+    2100080: hanger3
+    2100082: Fire_Extinguisher_Foam1
+    2100084: Fire_Extinguisher_CO3
+    2100086: Fire_Extinguisher_Wet_Chemical1
+    2100088: Fire_alarm1
+    2100090: brown_texture
+    2100092: Glass
+    2100094: Sofa_mtl4
+    2100096: BooksA_mtl
+    2100098: DoorGlass_Glass_mtl
+    2100100: Door_2_5m_mtl
+    2100102: meeting_room
+    2100104: StairsCarpet_mtl1
+    2100106: Cupboard_bc
+    2100108: Bookcase_bc
+    2100110: Clock_mtl
+    2100112: TV_mtl
+    2100114: DecorativeTop_mtl
+    2100116: Rack_mtl
+    2100118: FileCabinet_mtl
+    2100120: ClockGlass_mtl
+    2100122: Picture_mtl
+    2100124: MeetingTable_mtl
+    2100126: Picture__mtl
+    2100128: ToiletPartition_mtl
+    2100130: Washbasin_mtl
+    2100132: Urinal_mtl
+    2100134: Toilet_mtl
+    2100136: ToiletWater_mtl
+    2100138: RingBinder_mtl
+    2100140: RingBinderTransparent_mtl
+    2100142: Coffee_to_go_mtl
+    2100144: Plants_mtl
+    2100146: WallOffice03_mtl1
+    2100148: Wall1
+    2100150: Pillars1
+    2100152: Laptop_mtl
+    2100154: TabletPC_mtl
+    2100156: SignExit_ntl
+    2100158: ReceptionTable_mtl
+    2100160: FloorMarbleTiles_01
+    2100162: phong18
+    2100164: waiting_room
+    2100166: phong20
+    2100168: Fire_sprinkler1
+    2100170: smoke_detector
+    2100172: estar_3i
+    2100174: Extension_Board
+    2100176: T_V2
+    2300000: _Fire_smoke_detector10
+    2300002: _Fire_smoke_detector11
+    2300004: _Fire_smoke_detector14
+    2300006: _Fire_smoke_detector15
+    2300008: _Fire_smoke_detector2
+    2300010: _Fire_smoke_detector20
+    2300012: _Fire_smoke_detector21
+    2300014: _Fire_smoke_detector22
+    2300016: _Fire_smoke_detector23
+    2300018: _Fire_smoke_detector24
+    2300020: _Fire_smoke_detector25
+    2300022: _Fire_smoke_detector26
+    2300024: _Fire_smoke_detector27
+    2300026: _Fire_smoke_detector28
+    2300028: _Fire_smoke_detector29
+    2300030: _Fire_smoke_detector3
+    2300032: _Fire_smoke_detector30
+    2300034: _Fire_smoke_detector31
+    2300036: _Fire_smoke_detector32
+    2300038: _Fire_smoke_detector33
+    2300040: _Fire_smoke_detector34
+    2300042: _Fire_smoke_detector35
+    2300044: _Fire_smoke_detector36
+    2300046: _Fire_smoke_detector37
+    2300048: _Fire_smoke_detector38
+    2300050: _Fire_smoke_detector39
+    2300052: _Fire_smoke_detector4
+    2300054: _Fire_smoke_detector40
+    2300056: _Fire_smoke_detector41
+    2300058: _Fire_smoke_detector42
+    2300060: _Fire_smoke_detector43
+    2300062: _Fire_smoke_detector44
+    2300064: _Fire_smoke_detector45
+    2300066: _Fire_smoke_detector47
+    2300068: _Fire_smoke_detector48
+    2300070: _Fire_smoke_detector49
+    2300072: _Fire_smoke_detector5
+    2300074: _Fire_smoke_detector50
+    2300076: _Fire_smoke_detector51
+    2300078: _Fire_smoke_detector52
+    2300080: _Fire_smoke_detector53
+    2300082: _Fire_smoke_detector54
+    2300084: _Fire_smoke_detector6
+    2300086: _Fire_smoke_detector7
+    2300088: _Fire_smoke_detector8
+    2300090: _Fire_smoke_detector9
+    2300092: _Fire_sprinkler10
+    2300094: _Fire_sprinkler11
+    2300096: _Fire_sprinkler12
+    2300098: _Fire_sprinkler15
+    2300100: _Fire_sprinkler16
+    2300102: _Fire_sprinkler21
+    2300104: _Fire_sprinkler22
+    2300106: _Fire_sprinkler23
+    2300108: _Fire_sprinkler24
+    2300110: _Fire_sprinkler25
+    2300112: _Fire_sprinkler26
+    2300114: _Fire_sprinkler27
+    2300116: _Fire_sprinkler28
+    2300118: _Fire_sprinkler29
+    2300120: _Fire_sprinkler3
+    2300122: _Fire_sprinkler30
+    2300124: _Fire_sprinkler31
+    2300126: _Fire_sprinkler32
+    2300128: _Fire_sprinkler33
+    2300130: _Fire_sprinkler34
+    2300132: _Fire_sprinkler35
+    2300134: _Fire_sprinkler36
+    2300136: _Fire_sprinkler37
+    2300138: _Fire_sprinkler38
+    2300140: _Fire_sprinkler39
+    2300142: _Fire_sprinkler4
+    2300144: _Fire_sprinkler40
+    2300146: _Fire_sprinkler41
+    2300148: _Fire_sprinkler42
+    2300150: _Fire_sprinkler43
+    2300152: _Fire_sprinkler44
+    2300154: _Fire_sprinkler45
+    2300156: _Fire_sprinkler46
+    2300158: _Fire_sprinkler48
+    2300160: _Fire_sprinkler49
+    2300162: _Fire_sprinkler5
+    2300164: _Fire_sprinkler50
+    2300166: _Fire_sprinkler51
+    2300168: _Fire_sprinkler52
+    2300170: _Fire_sprinkler53
+    2300172: _Fire_sprinkler54
+    2300174: _Fire_sprinkler55
+    2300176: _Fire_sprinkler6
+    2300178: _Fire_sprinkler7
+    2300180: _Fire_sprinkler8
+    2300182: _Fire_sprinkler9
+    2300184: AC
+    2300186: AC11
+    2300188: AC2
+    2300190: AC2 1
+    2300192: AC3
+    2300194: AC3 1
+    2300196: AC9
+    2300198: AC_Duct1
+    2300200: AC_Duct10
+    2300202: AC_Duct11
+    2300204: AC_Duct12
+    2300206: AC_Duct13
+    2300208: AC_Duct14
+    2300210: AC_Duct15
+    2300212: AC_Duct16
+    2300214: AC_Duct17
+    2300216: AC_Duct18
+    2300218: AC_Duct19
+    2300220: AC_Duct2
+    2300222: AC_Duct20
+    2300224: AC_Duct21
+    2300226: AC_Duct22
+    2300228: AC_Duct26
+    2300230: AC_Duct27
+    2300232: AC_Duct28
+    2300234: AC_Duct29
+    2300236: AC_Duct3
+    2300238: AC_Duct30
+    2300240: AC_Duct31
+    2300242: AC_Duct32
+    2300244: AC_Duct33
+    2300246: AC_Duct34
+    2300248: AC_Duct35
+    2300250: AC_Duct36
+    2300252: AC_Duct37
+    2300254: AC_Duct38
+    2300256: AC_Duct39
+    2300258: AC_Duct40
+    2300260: AC_Duct41
+    2300262: AC_Duct42
+    2300264: AC_Duct43
+    2300266: AC_Duct47
+    2300268: AC_Duct49
+    2300270: AC_Duct5
+    2300272: AC_Duct50
+    2300274: AC_Duct52
+    2300276: AC_Duct53
+    2300278: AC_Duct55
+    2300280: AC_Duct56
+    2300282: AC_Duct58
+    2300284: AC_Duct59
+    2300286: AC_Duct6
+    2300288: AC_Duct60
+    2300290: AC_Duct61
+    2300292: AC_Duct62
+    2300294: AC_Duct63
+    2300296: AC_Duct64
+    2300298: AC_Duct65
+    2300300: AC_Duct66
+    2300302: AC_Duct67
+    2300304: AC_Duct68
+    2300306: AC_Duct7
+    2300308: AC_Duct8
+    2300310: AC_Duct9
+    2300312: Book_01
+    2300314: Book_16_5
+    2300316: Book_16_6
+    2300318: Book_22
+    2300320: Book_51
+    2300322: Book_52
+    2300324: BookcaseA__3_
+    2300326: BookcaseA_books
+    2300328: BookcaseA_books__1_
+    2300330: Books_01_2
+    2300332: Books_02__1_
+    2300334: Books_06__1_
+    2300336: Books_18__1_
+    2300338: Books_23_2
+    2300340: Books_24
+    2300342: Box
+    2300344: Box_1
+    2300346: Box_2
+    2300348: Box__10_
+    2300350: Box__11_
+    2300352: Box__12_
+    2300354: Box__13_
+    2300356: Box__14_
+    2300358: Box__15_
+    2300360: Box__16_
+    2300362: Box__176_
+    2300364: Box__177_
+    2300366: Box__1_
+    2300368: Box__2_
+    2300370: Box__3_
+    2300372: Box__4_
+    2300374: Box__5_
+    2300376: Box__6_
+    2300378: Box__7_
+    2300380: Box__84_
+    2300382: Box__85_
+    2300384: Box__86_
+    2300386: Box__87_
+    2300388: Box__88_
+    2300390: Box__89_
+    2300392: Box__8_
+    2300394: Box__92_
+    2300396: Box__93_
+    2300398: Box__94_
+    2300400: Box__95_
+    2300402: Box__9_
+    2300404: BoxBig
+    2300406: BoxBig_1
+    2300408: BoxBig_2
+    2300410: BoxBig_3
+    2300412: BoxBig_4
+    2300414: BoxBig__100_
+    2300416: BoxBig__101_
+    2300418: BoxBig__102_
+    2300420: BoxBig__103_
+    2300422: BoxBig__104_
+    2300424: BoxBig__105_
+    2300426: BoxBig__106_
+    2300428: BoxBig__107_
+    2300430: BoxBig__108_
+    2300432: BoxBig__109_
+    2300434: BoxBig__110_
+    2300436: BoxBig__111_
+    2300438: BoxBig__112_
+    2300440: BoxBig__113_
+    2300442: BoxBig__114_
+    2300444: BoxBig__115_
+    2300446: BoxBig__116_
+    2300448: BoxBig__117_
+    2300450: BoxBig__118_
+    2300452: BoxBig__119_
+    2300454: BoxBig__120_
+    2300456: BoxBig__121_
+    2300458: BoxBig__122_
+    2300460: BoxBig__123_
+    2300462: BoxBig__124_
+    2300464: BoxBig__125_
+    2300466: BoxBig__126_
+    2300468: BoxBig__127_
+    2300470: BoxBig__128_
+    2300472: BoxBig__129_
+    2300474: BoxBig__130_
+    2300476: BoxBig__131_
+    2300478: BoxBig__132_
+    2300480: BoxBig__133_
+    2300482: BoxBig__134_
+    2300484: BoxBig__135_
+    2300486: BoxBig__136_
+    2300488: BoxBig__137_
+    2300490: BoxBig__138_
+    2300492: BoxBig__139_
+    2300494: BoxBig__140_
+    2300496: BoxBig__141_
+    2300498: BoxBig__142_
+    2300500: BoxBig__143_
+    2300502: BoxBig__144_
+    2300504: BoxBig__145_
+    2300506: BoxBig__146_
+    2300508: BoxBig__147_
+    2300510: BoxBig__148_
+    2300512: BoxBig__149_
+    2300514: BoxBig__150_
+    2300516: BoxBig__151_
+    2300518: BoxBig__152_
+    2300520: BoxBig__153_
+    2300522: BoxBig__154_
+    2300524: BoxBig__155_
+    2300526: BoxBig__1_
+    2300528: BoxBig__24_
+    2300530: BoxBig__25_
+    2300532: BoxBig__26_
+    2300534: BoxBig__27_
+    2300536: BoxBig__28_
+    2300538: BoxBig__29_
+    2300540: BoxBig__2_
+    2300542: BoxBig__30_
+    2300544: BoxBig__31_
+    2300546: BoxBig__32_
+    2300548: BoxBig__33_
+    2300550: BoxBig__34_
+    2300552: BoxBig__35_
+    2300554: BoxBig__36_
+    2300556: BoxBig__37_
+    2300558: BoxBig__38_
+    2300560: BoxBig__39_
+    2300562: BoxBig__3_
+    2300564: BoxBig__40_
+    2300566: BoxBig__41_
+    2300568: BoxBig__42_
+    2300570: BoxBig__43_
+    2300572: BoxBig__44_
+    2300574: BoxBig__45_
+    2300576: BoxBig__46_
+    2300578: BoxBig__47_
+    2300580: BoxBig__48_
+    2300582: BoxBig__49_
+    2300584: BoxBig__50_
+    2300586: BoxBig__51_
+    2300588: BoxBig__52_
+    2300590: BoxBig__71_
+    2300592: BoxBig__72_
+    2300594: BoxBig__73_
+    2300596: BoxBig__74_
+    2300598: BoxBig__78_
+    2300600: BoxBig__79_
+    2300602: BoxBig__7_
+    2300604: BoxBig__80_
+    2300606: BoxBig__81_
+    2300608: BoxBig__82_
+    2300610: BoxBig__83_
+    2300612: BoxBig__84_
+    2300614: BoxBig__85_
+    2300616: BoxBig__86_
+    2300618: BoxBig__87_
+    2300620: BoxBig__88_
+    2300622: BoxBig__89_
+    2300624: BoxBig__90_
+    2300626: BoxBig__91_
+    2300628: BoxBig__92_
+    2300630: BoxBig__93_
+    2300632: BoxBig__94_
+    2300634: BoxBig__95_
+    2300636: BoxBig__96_
+    2300638: BoxBig__97_
+    2300640: BoxBig__98_
+    2300642: BoxBig__99_
+    2300644: BoxBigOpen
+    2300646: BoxBigOpen__1_
+    2300648: BoxOpen
+    2300650: BoxOpen__1_
+    2300652: BoxOpen__2_
+    2300654: BoxPortable_A
+    2300656: BoxPortable_B
+    2300658: BoxPortable_C
+    2300660: BoxPortable_C_2
+    2300662: BoxPortable_D
+    2300664: BoxPortableCap_C
+    2300666: BoxPortableCap_C_1
+    2300668: BoxPortableCap_D
+    2300670: CarpetPath_02__4_
+    2300672: CCTV_1__10_
+    2300674: CCTV_1__6_
+    2300676: CCTV_1__7_
+    2300678: CCTV_1__8_
+    2300680: Clock_01_LOD0
+    2300682: Clock_03
+    2300684: Cube27
+    2300686: Cup_full
+    2300688: Cup_half_full
+    2300690: Cupboard
+    2300692: Cupboard__1_
+    2300694: Cupboard__3_
+    2300696: Cupboard__6_
+    2300698: DecorativeTop__10_
+    2300700: DecorativeTop__1_
+    2300702: DecorativeTop__2_
+    2300704: DecorativeTop__4_
+    2300706: DecorativeTop__5_
+    2300708: DecorativeTop__6_
+    2300710: DecorativeTop__8_1
+    2300712: Document__2_
+    2300714: Document__2_1
+    2300716: Document__2_2
+    2300718: Document__2_3
+    2300720: Document__4_
+    2300722: Document__5_
+    2300724: Donut__1_
+    2300726: Door_2_5m__1_2
+    2300728: Door_2_5m__1_2 1
+    2300730: Door_2_5m__1_2 2
+    2300732: Door_2_5m__1_2 3
+    2300734: Door_2_5m__1_2 4
+    2300736: Door_2_5m__1_2 5
+    2300738: Door_2_5m__1_2 6
+    2300740: Door_L_7
+    2300742: Door_L_7 1
+    2300744: Door_L_7 2
+    2300746: Door_L_7 3
+    2300748: Door_L_7 4
+    2300750: Door_L_7 5
+    2300752: Door_L_7 6
+    2300754: Door_L_7 7
+    2300756: Door_L_7 8
+    2300758: Door_R_10
+    2300760: Door_R_11
+    2300762: Door_R_7
+    2300764: Door_R_7 1
+    2300766: Door_R_7 10
+    2300768: Door_R_7 2
+    2300770: Door_R_7 3
+    2300772: Door_R_7 4
+    2300774: Door_R_7 5
+    2300776: Door_R_7 6
+    2300778: Door_R_7 7
+    2300780: Door_R_7 8
+    2300782: Door_R_7 9
+    2300784: Door_R_8
+    2300786: Door_R_9
+    2300788: DoorA
+    2300790: DoorA1
+    2300792: extension
+    2300794: ExtinguisherMounting__1_
+    2300796: ExtinguisherMounting__1_ 1
+    2300798: ExtinguisherMounting__1_ 2
+    2300800: ExtinguisherMounting__1_ 3
+    2300802: ExtinguisherMounting__1_1
+    2300804: ExtinguisherMounting__1_1 1
+    2300806: ExtinguisherMounting__1_1 2
+    2300808: ExtinguisherMounting__1_1 3
+    2300810: ExtinguisherMounting__1_2
+    2300812: ExtinguisherMounting__1_2 1
+    2300814: ExtinguisherMounting__1_2 2
+    2300816: ExtinguisherMounting__1_2 3
+    2300818: ExtinguisherMounting__1_3
+    2300820: ExtinguisherMounting__1_3 1
+    2300822: ExtinguisherMounting__1_3 2
+    2300824: ExtinguisherMounting__1_3 3
+    2300826: Felt__Pen_Pink__1_
+    2300828: Felt__Pen_Pink__2_
+    2300830: Felt__Pen_Ultramarin__1_
+    2300832: Felt__Pen_Ultramarin__2_
+    2300834: FeltPen_Blue
+    2300836: FeltPen_Blue1
+    2300838: FeltPen_Blue2
+    2300840: FeltPen_Blue3
+    2300842: FileCabinet_01__19_1
+    2300844: FileCabinet_01__8_
+    2300846: FileCabinet_02__5_
+    2300848: Floor_6m__30_1
+    2300850: Frame01
+    2300852: Frame02
+    2300854: Frame15
+    2300856: Glass_1m__27_2
+    2300858: GlassDecor_1m__1_1
+    2300860: GlassDecor_1m__1_1 1
+    2300862: GlassDecor_1m__1_1 2
+    2300864: HandDryer__6_
+    2300866: Hours
+    2300868: Kerosene
+    2300870: Kerosene1
+    2300872: Kerosene2
+    2300874: Kerosene3
+    2300876: Kerosene4
+    2300878: Kerosene5
+    2300880: Kerosene6
+    2300882: Keyboard
+    2300884: Keyboard__3_
+    2300886: Keyboard___8_4
+    2300888: Lamp02
+    2300890: Lamp02__4_
+    2300892: LampTechnicalA
+    2300894: LampTechnicalA__1_
+    2300896: LampTechnicalA__2_
+    2300898: Laptop
+    2300900: Light1
+    2300902: Light10
+    2300904: Light11
+    2300906: Light12
+    2300908: Light13
+    2300910: Light14
+    2300912: Light15
+    2300914: Light16
+    2300916: Light17
+    2300918: Light18
+    2300920: Light19
+    2300922: Light2
+    2300924: Light20
+    2300926: Light21
+    2300928: Light22
+    2300930: Light23
+    2300932: Light25
+    2300934: Light27
+    2300936: Light28
+    2300938: Light29
+    2300940: Light3
+    2300942: Light30
+    2300944: Light31
+    2300946: Light32
+    2300948: Light33
+    2300950: Light34
+    2300952: Light35
+    2300954: Light36
+    2300956: Light37
+    2300958: Light38
+    2300960: Light39
+    2300962: Light40
+    2300964: Light41
+    2300966: Light42
+    2300968: Light43
+    2300970: Light44
+    2300972: Light45
+    2300974: Light46
+    2300976: Light47
+    2300978: Light48
+    2300980: Light49
+    2300982: Light5
+    2300984: Light50
+    2300986: Light51
+    2300988: Light52
+    2300990: Light53
+    2300992: Light54
+    2300994: Light55
+    2300996: Light56
+    2300998: Light57
+    2301000: Light58
+    2301002: Light59
+    2301004: Light6
+    2301006: Light60
+    2301008: Light61
+    2301010: Light62
+    2301012: Light63
+    2301014: Light64
+    2301016: Light65
+    2301018: Light66
+    2301020: Light67
+    2301022: Light68
+    2301024: Light69
+    2301026: Light7
+    2301028: Light70
+    2301030: Light71
+    2301032: Light72
+    2301034: Light73
+    2301036: Light8
+    2301038: Light9
+    2301040: liver
+    2301042: liver 1
+    2301044: liver 2
+    2301046: liver 3
+    2301048: LockCode__1_
+    2301050: main_body
+    2301052: main_body 1
+    2301054: main_body 2
+    2301056: main_body 3
+    2301058: Marker_Blue
+    2301060: Marker_Blue2
+    2301062: Marker_Blue3
+    2301064: Marker_Blue_1
+    2301066: Marker_Green
+    2301068: Marker_Red
+    2301070: Marker_Red1
+    2301072: Marker_Red2
+    2301074: Marker_Red3
+    2301076: Marker_Yellow
+    2301078: Marker_Yellow1
+    2301080: Marker_Yellow2
+    2301082: Marker_Yellow3
+    2301084: Mat
+    2301086: Mirror__8_
+    2301088: Monitor___3_1
+    2301090: Mouse_01
+    2301092: Mouse__12_
+    2301094: Mouse___5_10
+    2301096: MousePad__1_
+    2301098: MousePad__8_
+    2301100: NotebookOpen
+    2301102: NotebookOpen__1_1
+    2301104: NotebookOpen__2_
+    2301106: Pack_Paper__3_
+    2301108: Paper
+    2301110: Paper1
+    2301112: Paper2
+    2301114: Paper3
+    2301116: Paper__3_
+    2301118: PaperStack_A
+    2301120: PaperStack_A1
+    2301122: PaperStack_A1 1
+    2301124: PaperStack_A1 2
+    2301126: PaperStack_A2
+    2301128: PaperStack_A3
+    2301130: PaperStack_A4
+    2301132: PaperStack_A4 1
+    2301134: PaperStack_A4 2
+    2301136: PaperStack_A5
+    2301138: PaperStack_A5 1
+    2301140: PaperStack_A5 2
+    2301142: PaperStack_A6
+    2301144: PaperStack_A6 1
+    2301146: PaperStack_A6 2
+    2301148: PaperStack_A7
+    2301150: PaperStack_A7 1
+    2301152: PaperStack_A7 2
+    2301154: PaperTray__9_
+    2301156: PC
+    2301158: PC__3_
+    2301160: PC__5_5
+    2301162: pCube100
+    2301164: pCube101
+    2301166: pCube99
+    2301168: pCylinder49
+    2301170: Pen
+    2301172: Pen__1_
+    2301174: Pencil_Black
+    2301176: Pencil_Black__1_
+    2301178: Pencil_Black__2_
+    2301180: Pencil_Black__3_
+    2301182: Pencil_Black__4_
+    2301184: Pencil_Black__5_
+    2301186: Pencil_Black__6_
+    2301188: Pencil_Black__7_
+    2301190: Pencil_Blue
+    2301192: Pencil_Blue__1_
+    2301194: Pencil_Blue__2_
+    2301196: Pencil_Blue__4_
+    2301198: Pencil_Brown
+    2301200: Pencil_Brown__1_
+    2301202: Pencil_Gray
+    2301204: Pencil_Gray1
+    2301206: Pencil_Gray2
+    2301208: Pencil_Gray3
+    2301210: Pencil_Gray__1_
+    2301212: Pencil_Red
+    2301214: Pencil_Red__2_
+    2301216: Pencil_Red__3_
+    2301218: Pencil_White
+    2301220: Pencil_White__2_
+    2301222: PencilCase_filled
+    2301224: PencilCup
+    2301226: PencilCup__2_
+    2301228: Pillars_polySurface407
+    2301230: Plant01_LOD0_1
+    2301232: Plant01_LOD1
+    2301234: Plant01_LOD1_2
+    2301236: Plant02_LOD1
+    2301238: Plant03_LOD1
+    2301240: Plant03_LOD1_1
+    2301242: polySurface109
+    2301244: polySurface112
+    2301246: polySurface116
+    2301248: polySurface247
+    2301250: polySurface248
+    2301252: polySurface249
+    2301254: polySurface250
+    2301256: polySurface251
+    2301258: polySurface252
+    2301260: polySurface253
+    2301262: polySurface254
+    2301264: polySurface255
+    2301266: polySurface256
+    2301268: polySurface257
+    2301270: polySurface258
+    2301272: polySurface259
+    2301274: polySurface260
+    2301276: polySurface261
+    2301278: polySurface262
+    2301280: polySurface263
+    2301282: polySurface264
+    2301284: polySurface265
+    2301286: polySurface266
+    2301288: polySurface267
+    2301290: polySurface268
+    2301292: polySurface269
+    2301294: polySurface270
+    2301296: polySurface271
+    2301298: polySurface272
+    2301300: polySurface273
+    2301302: polySurface274
+    2301304: polySurface275
+    2301306: polySurface276
+    2301308: polySurface277
+    2301310: polySurface278
+    2301312: polySurface279
+    2301314: polySurface280
+    2301316: polySurface281
+    2301318: polySurface282
+    2301320: polySurface283
+    2301322: polySurface284
+    2301324: polySurface285
+    2301326: polySurface286
+    2301328: polySurface287
+    2301330: polySurface288
+    2301332: polySurface289
+    2301334: polySurface290
+    2301336: polySurface291
+    2301338: polySurface292
+    2301340: polySurface293
+    2301342: polySurface294
+    2301344: polySurface295
+    2301346: polySurface296
+    2301348: polySurface297
+    2301350: polySurface298
+    2301352: polySurface351
+    2301354: polySurface388
+    2301356: polySurface395
+    2301358: polySurface399
+    2301360: polySurface400
+    2301362: polySurface400 1
+    2301364: polySurface400 2
+    2301366: polySurface401
+    2301368: polySurface404
+    2301370: polySurface406
+    2301372: polySurface407
+    2301374: polySurface407 1
+    2301376: polySurface407 2
+    2301378: polySurface410
+    2301380: polySurface411
+    2301382: polySurface412
+    2301384: polySurface413
+    2301386: polySurface415
+    2301388: polySurface60705
+    2301390: polySurface60706
+    2301392: polySurface60707
+    2301394: polySurface60708
+    2301396: polySurface60720
+    2301398: polySurface60790
+    2301400: polySurface60790 1
+    2301402: polySurface60790 2
+    2301404: polySurface60793
+    2301406: polySurface60794
+    2301408: polySurface60795
+    2301410: polySurface60795 1
+    2301412: polySurface60795 2
+    2301414: polySurface60795 3
+    2301416: polySurface60796
+    2301418: polySurface60796 1
+    2301420: polySurface60796 2
+    2301422: polySurface60796 3
+    2301424: polySurface60797
+    2301426: polySurface60797 1
+    2301428: polySurface60797 2
+    2301430: polySurface60797 3
+    2301432: polySurface60798
+    2301434: polySurface60798 1
+    2301436: polySurface60798 2
+    2301438: polySurface60798 3
+    2301440: polySurface60799
+    2301442: polySurface60799 1
+    2301444: polySurface60799 2
+    2301446: polySurface60799 3
+    2301448: polySurface60800
+    2301450: polySurface60800 1
+    2301452: polySurface60800 2
+    2301454: polySurface60800 3
+    2301456: polySurface60801
+    2301458: polySurface60801 1
+    2301460: polySurface60801 2
+    2301462: polySurface60801 3
+    2301464: polySurface60802
+    2301466: polySurface60802 1
+    2301468: polySurface60802 2
+    2301470: polySurface60802 3
+    2301472: polySurface60803
+    2301474: polySurface60803 1
+    2301476: polySurface60803 2
+    2301478: polySurface60803 3
+    2301480: polySurface60804
+    2301482: polySurface60804 1
+    2301484: polySurface60804 2
+    2301486: polySurface60804 3
+    2301488: polySurface60805
+    2301490: polySurface60805 1
+    2301492: polySurface60805 2
+    2301494: polySurface60805 3
+    2301496: polySurface60806
+    2301498: polySurface60806 1
+    2301500: polySurface60806 2
+    2301502: polySurface60806 3
+    2301504: polySurface60807
+    2301506: polySurface60807 1
+    2301508: polySurface60807 2
+    2301510: polySurface60807 3
+    2301512: polySurface60808
+    2301514: polySurface60808 1
+    2301516: polySurface60808 2
+    2301518: polySurface60808 3
+    2301520: polySurface60809
+    2301522: polySurface60809 1
+    2301524: polySurface60809 2
+    2301526: polySurface60809 3
+    2301528: polySurface60810
+    2301530: polySurface60810 1
+    2301532: polySurface60810 2
+    2301534: polySurface60810 3
+    2301536: polySurface60810 4
+    2301538: polySurface60810 5
+    2301540: polySurface60810 6
+    2301542: polySurface60810 7
+    2301544: polySurface60811
+    2301546: polySurface60811 1
+    2301548: polySurface60811 2
+    2301550: polySurface60811 3
+    2301552: polySurface60811 4
+    2301554: polySurface60811 5
+    2301556: polySurface60811 6
+    2301558: polySurface60811 7
+    2301560: polySurface60812
+    2301562: polySurface60812 1
+    2301564: polySurface60812 2
+    2301566: polySurface60812 3
+    2301568: polySurface60812 4
+    2301570: polySurface60812 5
+    2301572: polySurface60812 6
+    2301574: polySurface60812 7
+    2301576: polySurface60813
+    2301578: polySurface60813 1
+    2301580: polySurface60813 2
+    2301582: polySurface60813 3
+    2301584: polySurface60813 4
+    2301586: polySurface60813 5
+    2301588: polySurface60813 6
+    2301590: polySurface60813 7
+    2301592: polySurface60814
+    2301594: polySurface60814 1
+    2301596: polySurface60814 2
+    2301598: polySurface60814 3
+    2301600: polySurface60814 4
+    2301602: polySurface60814 5
+    2301604: polySurface60814 6
+    2301606: polySurface60814 7
+    2301608: polySurface60815
+    2301610: polySurface60815 1
+    2301612: polySurface60815 2
+    2301614: polySurface60815 3
+    2301616: polySurface60815 4
+    2301618: polySurface60815 5
+    2301620: polySurface60815 6
+    2301622: polySurface60815 7
+    2301624: polySurface60816
+    2301626: polySurface60816 1
+    2301628: polySurface60816 2
+    2301630: polySurface60816 3
+    2301632: polySurface60816 4
+    2301634: polySurface60816 5
+    2301636: polySurface60816 6
+    2301638: polySurface60816 7
+    2301640: polySurface60817
+    2301642: polySurface60817 1
+    2301644: polySurface60817 2
+    2301646: polySurface60817 3
+    2301648: polySurface60817 4
+    2301650: polySurface60817 5
+    2301652: polySurface60817 6
+    2301654: polySurface60817 7
+    2301656: polySurface60818
+    2301658: polySurface60818 1
+    2301660: polySurface60818 2
+    2301662: polySurface60818 3
+    2301664: polySurface60818 4
+    2301666: polySurface60818 5
+    2301668: polySurface60818 6
+    2301670: polySurface60818 7
+    2301672: polySurface60819
+    2301674: polySurface60819 1
+    2301676: polySurface60819 2
+    2301678: polySurface60819 3
+    2301680: polySurface60819 4
+    2301682: polySurface60819 5
+    2301684: polySurface60819 6
+    2301686: polySurface60819 7
+    2301688: polySurface60820
+    2301690: polySurface60820 1
+    2301692: polySurface60820 2
+    2301694: polySurface60820 3
+    2301696: polySurface60820 4
+    2301698: polySurface60820 5
+    2301700: polySurface60820 6
+    2301702: polySurface60820 7
+    2301704: polySurface60821
+    2301706: polySurface60821 1
+    2301708: polySurface60821 2
+    2301710: polySurface60821 3
+    2301712: polySurface60821 4
+    2301714: polySurface60821 5
+    2301716: polySurface60821 6
+    2301718: polySurface60821 7
+    2301720: polySurface60822
+    2301722: polySurface60822 1
+    2301724: polySurface60822 2
+    2301726: polySurface60822 3
+    2301728: polySurface60822 4
+    2301730: polySurface60822 5
+    2301732: polySurface60822 6
+    2301734: polySurface60822 7
+    2301736: polySurface60823
+    2301738: polySurface60823 1
+    2301740: polySurface60823 2
+    2301742: polySurface60823 3
+    2301744: polySurface60823 4
+    2301746: polySurface60823 5
+    2301748: polySurface60823 6
+    2301750: polySurface60823 7
+    2301752: polySurface60824
+    2301754: polySurface60824 1
+    2301756: polySurface60824 2
+    2301758: polySurface60824 3
+    2301760: polySurface60824 4
+    2301762: polySurface60824 5
+    2301764: polySurface60824 6
+    2301766: polySurface60824 7
+    2301768: polySurface60841
+    2301770: polySurface60841 1
+    2301772: polySurface60841 2
+    2301774: polySurface60841 3
+    2301776: polySurface60842
+    2301778: polySurface60842 1
+    2301780: polySurface60842 2
+    2301782: polySurface60842 3
+    2301784: polySurface60843
+    2301786: polySurface60843 1
+    2301788: polySurface60843 2
+    2301790: polySurface60843 3
+    2301792: polySurface60844
+    2301794: polySurface60844 1
+    2301796: polySurface60844 2
+    2301798: polySurface60844 3
+    2301800: polySurface60845
+    2301802: polySurface60845 1
+    2301804: polySurface60845 2
+    2301806: polySurface60845 3
+    2301808: polySurface60846
+    2301810: polySurface60846 1
+    2301812: polySurface60846 2
+    2301814: polySurface60846 3
+    2301816: polySurface60847
+    2301818: polySurface60847 1
+    2301820: polySurface60847 2
+    2301822: polySurface60847 3
+    2301824: polySurface60848
+    2301826: polySurface60848 1
+    2301828: polySurface60848 2
+    2301830: polySurface60848 3
+    2301832: polySurface60849
+    2301834: polySurface60849 1
+    2301836: polySurface60849 2
+    2301838: polySurface60849 3
+    2301840: polySurface60850
+    2301842: polySurface60850 1
+    2301844: polySurface60850 2
+    2301846: polySurface60850 3
+    2301848: polySurface60851
+    2301850: polySurface60851 1
+    2301852: polySurface60851 2
+    2301854: polySurface60851 3
+    2301856: polySurface60852
+    2301858: polySurface60852 1
+    2301860: polySurface60852 2
+    2301862: polySurface60852 3
+    2301864: polySurface60853
+    2301866: polySurface60853 1
+    2301868: polySurface60853 2
+    2301870: polySurface60853 3
+    2301872: polySurface60854
+    2301874: polySurface60854 1
+    2301876: polySurface60854 2
+    2301878: polySurface60854 3
+    2301880: polySurface60855
+    2301882: polySurface60855 1
+    2301884: polySurface60855 2
+    2301886: polySurface60855 3
+    2301888: polySurface60856
+    2301890: polySurface60857
+    2301892: polySurface60858
+    2301894: polySurface60859
+    2301896: polySurface60860
+    2301898: polySurface60861
+    2301900: polySurface60862
+    2301902: polySurface60863
+    2301904: polySurface60864
+    2301906: polySurface60865
+    2301908: polySurface60866
+    2301910: polySurface60867
+    2301912: polySurface60868
+    2301914: polySurface60869
+    2301916: polySurface60870
+    2301918: polySurface60871
+    2301920: polySurface60872
+    2301922: polySurface60873
+    2301924: polySurface60874
+    2301926: polySurface60875
+    2301928: polySurface60876
+    2301930: polySurface60877
+    2301932: polySurface60878
+    2301934: polySurface60879
+    2301936: polySurface60880
+    2301938: polySurface60881
+    2301940: polySurface60882
+    2301942: polySurface60883
+    2301944: polySurface60884
+    2301946: polySurface60885
+    2301948: polySurface60886
+    2301950: polySurface60887
+    2301952: polySurface60888
+    2301954: polySurface91
+    2301956: PortableBox_A__14_
+    2301958: PortableBox_A__15_
+    2301960: PortableBox_A__16_
+    2301962: PortableBox_A__17_
+    2301964: PortableBox_A__1_
+    2301966: PortableBox_A__2_
+    2301968: PortableBox_A__3_
+    2301970: PortableBox_B__11_
+    2301972: PortableBox_B__12_
+    2301974: PortableBox_B__13_
+    2301976: PortableBox_B__14_
+    2301978: PortableBox_B__15_
+    2301980: PortableBox_B__1_
+    2301982: Printer__1_
+    2301984: Printer__2_
+    2301986: PrinterPro
+    2301988: PrinterPro__1_
+    2301990: Pushpin_White
+    2301992: Rack__12_1
+    2301994: ReceptionClosets__2_
+    2301996: ReceptionClosets__5_
+    2301998: ReceptionClosets__7_
+    2302000: ReceptionTable_cornerOutside__5_
+    2302002: RingBinderB__4_
+    2302004: Roof
+    2302006: Second_1
+    2302008: SecretaryDesk__1_
+    2302010: SistemUnit__8_
+    2302012: Smartphone
+    2302014: Smartphone__1_2
+    2302016: stand
+    2302018: stand 1
+    2302020: stand 2
+    2302022: stand 3
+    2302024: stand1
+    2302026: stand1 1
+    2302028: stand1 2
+    2302030: stand1 3
+    2302032: stand2
+    2302034: stand2 1
+    2302036: stand2 2
+    2302038: stand2 3
+    2302040: stand3
+    2302042: stand3 1
+    2302044: stand3 2
+    2302046: stand3 3
+    2302048: StandTableWork__12_3
+    2302050: StickerGreen
+    2302052: StickerPink
+    2302054: StickerPink1
+    2302056: StickerPink2
+    2302058: StickerPink3
+    2302060: StickersGreen
+    2302062: StickersPink
+    2302064: StickersPink1
+    2302066: StickersPink2
+    2302068: StickersPink3
+    2302070: table
+    2302072: TableA
+    2302074: TableA__1_
+    2302076: TableRound_module_8
+    2302078: TabletPC
+    2302080: Toilet_LOD0
+    2302082: ToiletPaper
+    2302084: ToiletPartition
+    2302086: TrashCan_01__11_
+    2302088: TrashCan_01__7_10
+    2302090: TrashCan_01__7_8
+    2302092: TrashCan_01__7_9
+    2302094: TrashCan_01__8_1
+    2302096: TrashCan__5_
+    2302098: TV
+    2302100: TV_for_wall__2_
+    2302102: TV_wire
+    2302104: Urinal_LOD1
+    2302106: Wall2
+    2302108: windows
+    3300000: _Fire_smoke_detector10
+    3300002: _Fire_smoke_detector11
+    3300004: _Fire_smoke_detector14
+    3300006: _Fire_smoke_detector15
+    3300008: _Fire_smoke_detector2
+    3300010: _Fire_smoke_detector20
+    3300012: _Fire_smoke_detector21
+    3300014: _Fire_smoke_detector22
+    3300016: _Fire_smoke_detector23
+    3300018: _Fire_smoke_detector24
+    3300020: _Fire_smoke_detector25
+    3300022: _Fire_smoke_detector26
+    3300024: _Fire_smoke_detector27
+    3300026: _Fire_smoke_detector28
+    3300028: _Fire_smoke_detector29
+    3300030: _Fire_smoke_detector3
+    3300032: _Fire_smoke_detector30
+    3300034: _Fire_smoke_detector31
+    3300036: _Fire_smoke_detector32
+    3300038: _Fire_smoke_detector33
+    3300040: _Fire_smoke_detector34
+    3300042: _Fire_smoke_detector35
+    3300044: _Fire_smoke_detector36
+    3300046: _Fire_smoke_detector37
+    3300048: _Fire_smoke_detector38
+    3300050: _Fire_smoke_detector39
+    3300052: _Fire_smoke_detector4
+    3300054: _Fire_smoke_detector40
+    3300056: _Fire_smoke_detector41
+    3300058: _Fire_smoke_detector42
+    3300060: _Fire_smoke_detector43
+    3300062: _Fire_smoke_detector44
+    3300064: _Fire_smoke_detector45
+    3300066: _Fire_smoke_detector47
+    3300068: _Fire_smoke_detector48
+    3300070: _Fire_smoke_detector49
+    3300072: _Fire_smoke_detector5
+    3300074: _Fire_smoke_detector50
+    3300076: _Fire_smoke_detector51
+    3300078: _Fire_smoke_detector52
+    3300080: _Fire_smoke_detector53
+    3300082: _Fire_smoke_detector54
+    3300084: _Fire_smoke_detector6
+    3300086: _Fire_smoke_detector7
+    3300088: _Fire_smoke_detector8
+    3300090: _Fire_smoke_detector9
+    3300092: _Fire_sprinkler10
+    3300094: _Fire_sprinkler11
+    3300096: _Fire_sprinkler12
+    3300098: _Fire_sprinkler15
+    3300100: _Fire_sprinkler16
+    3300102: _Fire_sprinkler21
+    3300104: _Fire_sprinkler22
+    3300106: _Fire_sprinkler23
+    3300108: _Fire_sprinkler24
+    3300110: _Fire_sprinkler25
+    3300112: _Fire_sprinkler26
+    3300114: _Fire_sprinkler27
+    3300116: _Fire_sprinkler28
+    3300118: _Fire_sprinkler29
+    3300120: _Fire_sprinkler3
+    3300122: _Fire_sprinkler30
+    3300124: _Fire_sprinkler31
+    3300126: _Fire_sprinkler32
+    3300128: _Fire_sprinkler33
+    3300130: _Fire_sprinkler34
+    3300132: _Fire_sprinkler35
+    3300134: _Fire_sprinkler36
+    3300136: _Fire_sprinkler37
+    3300138: _Fire_sprinkler38
+    3300140: _Fire_sprinkler39
+    3300142: _Fire_sprinkler4
+    3300144: _Fire_sprinkler40
+    3300146: _Fire_sprinkler41
+    3300148: _Fire_sprinkler42
+    3300150: _Fire_sprinkler43
+    3300152: _Fire_sprinkler44
+    3300154: _Fire_sprinkler45
+    3300156: _Fire_sprinkler46
+    3300158: _Fire_sprinkler48
+    3300160: _Fire_sprinkler49
+    3300162: _Fire_sprinkler5
+    3300164: _Fire_sprinkler50
+    3300166: _Fire_sprinkler51
+    3300168: _Fire_sprinkler52
+    3300170: _Fire_sprinkler53
+    3300172: _Fire_sprinkler54
+    3300174: _Fire_sprinkler55
+    3300176: _Fire_sprinkler6
+    3300178: _Fire_sprinkler7
+    3300180: _Fire_sprinkler8
+    3300182: _Fire_sprinkler9
+    3300184: AC
+    3300186: AC11
+    3300188: AC2
+    3300190: AC2 1
+    3300192: AC3
+    3300194: AC3 1
+    3300196: AC9
+    3300198: AC_Duct1
+    3300200: AC_Duct10
+    3300202: AC_Duct11
+    3300204: AC_Duct12
+    3300206: AC_Duct13
+    3300208: AC_Duct14
+    3300210: AC_Duct15
+    3300212: AC_Duct16
+    3300214: AC_Duct17
+    3300216: AC_Duct18
+    3300218: AC_Duct19
+    3300220: AC_Duct2
+    3300222: AC_Duct20
+    3300224: AC_Duct21
+    3300226: AC_Duct22
+    3300228: AC_Duct26
+    3300230: AC_Duct27
+    3300232: AC_Duct28
+    3300234: AC_Duct29
+    3300236: AC_Duct3
+    3300238: AC_Duct30
+    3300240: AC_Duct31
+    3300242: AC_Duct32
+    3300244: AC_Duct33
+    3300246: AC_Duct34
+    3300248: AC_Duct35
+    3300250: AC_Duct36
+    3300252: AC_Duct37
+    3300254: AC_Duct38
+    3300256: AC_Duct39
+    3300258: AC_Duct40
+    3300260: AC_Duct41
+    3300262: AC_Duct42
+    3300264: AC_Duct43
+    3300266: AC_Duct47
+    3300268: AC_Duct49
+    3300270: AC_Duct5
+    3300272: AC_Duct50
+    3300274: AC_Duct52
+    3300276: AC_Duct53
+    3300278: AC_Duct55
+    3300280: AC_Duct56
+    3300282: AC_Duct58
+    3300284: AC_Duct59
+    3300286: AC_Duct6
+    3300288: AC_Duct60
+    3300290: AC_Duct61
+    3300292: AC_Duct62
+    3300294: AC_Duct63
+    3300296: AC_Duct64
+    3300298: AC_Duct65
+    3300300: AC_Duct66
+    3300302: AC_Duct67
+    3300304: AC_Duct68
+    3300306: AC_Duct7
+    3300308: AC_Duct8
+    3300310: AC_Duct9
+    3300312: Book_01
+    3300314: Book_16_5
+    3300316: Book_16_6
+    3300318: Book_22
+    3300320: Book_51
+    3300322: Book_52
+    3300324: BookcaseA__3_
+    3300326: BookcaseA_books
+    3300328: BookcaseA_books__1_
+    3300330: Books_01_2
+    3300332: Books_02__1_
+    3300334: Books_06__1_
+    3300336: Books_18__1_
+    3300338: Books_23_2
+    3300340: Books_24
+    3300342: Box
+    3300344: Box_1
+    3300346: Box_2
+    3300348: Box__10_
+    3300350: Box__11_
+    3300352: Box__12_
+    3300354: Box__13_
+    3300356: Box__14_
+    3300358: Box__15_
+    3300360: Box__16_
+    3300362: Box__176_
+    3300364: Box__177_
+    3300366: Box__1_
+    3300368: Box__2_
+    3300370: Box__3_
+    3300372: Box__4_
+    3300374: Box__5_
+    3300376: Box__6_
+    3300378: Box__7_
+    3300380: Box__84_
+    3300382: Box__85_
+    3300384: Box__86_
+    3300386: Box__87_
+    3300388: Box__88_
+    3300390: Box__89_
+    3300392: Box__8_
+    3300394: Box__92_
+    3300396: Box__93_
+    3300398: Box__94_
+    3300400: Box__95_
+    3300402: Box__9_
+    3300404: BoxBig
+    3300406: BoxBig_1
+    3300408: BoxBig_2
+    3300410: BoxBig_3
+    3300412: BoxBig_4
+    3300414: BoxBig__100_
+    3300416: BoxBig__101_
+    3300418: BoxBig__102_
+    3300420: BoxBig__103_
+    3300422: BoxBig__104_
+    3300424: BoxBig__105_
+    3300426: BoxBig__106_
+    3300428: BoxBig__107_
+    3300430: BoxBig__108_
+    3300432: BoxBig__109_
+    3300434: BoxBig__110_
+    3300436: BoxBig__111_
+    3300438: BoxBig__112_
+    3300440: BoxBig__113_
+    3300442: BoxBig__114_
+    3300444: BoxBig__115_
+    3300446: BoxBig__116_
+    3300448: BoxBig__117_
+    3300450: BoxBig__118_
+    3300452: BoxBig__119_
+    3300454: BoxBig__120_
+    3300456: BoxBig__121_
+    3300458: BoxBig__122_
+    3300460: BoxBig__123_
+    3300462: BoxBig__124_
+    3300464: BoxBig__125_
+    3300466: BoxBig__126_
+    3300468: BoxBig__127_
+    3300470: BoxBig__128_
+    3300472: BoxBig__129_
+    3300474: BoxBig__130_
+    3300476: BoxBig__131_
+    3300478: BoxBig__132_
+    3300480: BoxBig__133_
+    3300482: BoxBig__134_
+    3300484: BoxBig__135_
+    3300486: BoxBig__136_
+    3300488: BoxBig__137_
+    3300490: BoxBig__138_
+    3300492: BoxBig__139_
+    3300494: BoxBig__140_
+    3300496: BoxBig__141_
+    3300498: BoxBig__142_
+    3300500: BoxBig__143_
+    3300502: BoxBig__144_
+    3300504: BoxBig__145_
+    3300506: BoxBig__146_
+    3300508: BoxBig__147_
+    3300510: BoxBig__148_
+    3300512: BoxBig__149_
+    3300514: BoxBig__150_
+    3300516: BoxBig__151_
+    3300518: BoxBig__152_
+    3300520: BoxBig__153_
+    3300522: BoxBig__154_
+    3300524: BoxBig__155_
+    3300526: BoxBig__1_
+    3300528: BoxBig__24_
+    3300530: BoxBig__25_
+    3300532: BoxBig__26_
+    3300534: BoxBig__27_
+    3300536: BoxBig__28_
+    3300538: BoxBig__29_
+    3300540: BoxBig__2_
+    3300542: BoxBig__30_
+    3300544: BoxBig__31_
+    3300546: BoxBig__32_
+    3300548: BoxBig__33_
+    3300550: BoxBig__34_
+    3300552: BoxBig__35_
+    3300554: BoxBig__36_
+    3300556: BoxBig__37_
+    3300558: BoxBig__38_
+    3300560: BoxBig__39_
+    3300562: BoxBig__3_
+    3300564: BoxBig__40_
+    3300566: BoxBig__41_
+    3300568: BoxBig__42_
+    3300570: BoxBig__43_
+    3300572: BoxBig__44_
+    3300574: BoxBig__45_
+    3300576: BoxBig__46_
+    3300578: BoxBig__47_
+    3300580: BoxBig__48_
+    3300582: BoxBig__49_
+    3300584: BoxBig__50_
+    3300586: BoxBig__51_
+    3300588: BoxBig__52_
+    3300590: BoxBig__71_
+    3300592: BoxBig__72_
+    3300594: BoxBig__73_
+    3300596: BoxBig__74_
+    3300598: BoxBig__78_
+    3300600: BoxBig__79_
+    3300602: BoxBig__7_
+    3300604: BoxBig__80_
+    3300606: BoxBig__81_
+    3300608: BoxBig__82_
+    3300610: BoxBig__83_
+    3300612: BoxBig__84_
+    3300614: BoxBig__85_
+    3300616: BoxBig__86_
+    3300618: BoxBig__87_
+    3300620: BoxBig__88_
+    3300622: BoxBig__89_
+    3300624: BoxBig__90_
+    3300626: BoxBig__91_
+    3300628: BoxBig__92_
+    3300630: BoxBig__93_
+    3300632: BoxBig__94_
+    3300634: BoxBig__95_
+    3300636: BoxBig__96_
+    3300638: BoxBig__97_
+    3300640: BoxBig__98_
+    3300642: BoxBig__99_
+    3300644: BoxBigOpen
+    3300646: BoxBigOpen__1_
+    3300648: BoxOpen
+    3300650: BoxOpen__1_
+    3300652: BoxOpen__2_
+    3300654: BoxPortable_A
+    3300656: BoxPortable_B
+    3300658: BoxPortable_C
+    3300660: BoxPortable_C_2
+    3300662: BoxPortable_D
+    3300664: BoxPortableCap_C
+    3300666: BoxPortableCap_C_1
+    3300668: BoxPortableCap_D
+    3300670: CarpetPath_02__4_
+    3300672: CCTV_1__10_
+    3300674: CCTV_1__6_
+    3300676: CCTV_1__7_
+    3300678: CCTV_1__8_
+    3300680: Clock_01_LOD0
+    3300682: Clock_03
+    3300684: Cube27
+    3300686: Cup_full
+    3300688: Cup_half_full
+    3300690: Cupboard
+    3300692: Cupboard__1_
+    3300694: Cupboard__3_
+    3300696: Cupboard__6_
+    3300698: DecorativeTop__10_
+    3300700: DecorativeTop__1_
+    3300702: DecorativeTop__2_
+    3300704: DecorativeTop__4_
+    3300706: DecorativeTop__5_
+    3300708: DecorativeTop__6_
+    3300710: DecorativeTop__8_1
+    3300712: Document__2_
+    3300714: Document__2_1
+    3300716: Document__2_2
+    3300718: Document__2_3
+    3300720: Document__4_
+    3300722: Document__5_
+    3300724: Donut__1_
+    3300726: Door_2_5m__1_2
+    3300728: Door_2_5m__1_2 1
+    3300730: Door_2_5m__1_2 2
+    3300732: Door_2_5m__1_2 3
+    3300734: Door_2_5m__1_2 4
+    3300736: Door_2_5m__1_2 5
+    3300738: Door_2_5m__1_2 6
+    3300740: Door_L_7
+    3300742: Door_L_7 1
+    3300744: Door_L_7 2
+    3300746: Door_L_7 3
+    3300748: Door_L_7 4
+    3300750: Door_L_7 5
+    3300752: Door_L_7 6
+    3300754: Door_L_7 7
+    3300756: Door_L_7 8
+    3300758: Door_R_10
+    3300760: Door_R_11
+    3300762: Door_R_7
+    3300764: Door_R_7 1
+    3300766: Door_R_7 10
+    3300768: Door_R_7 2
+    3300770: Door_R_7 3
+    3300772: Door_R_7 4
+    3300774: Door_R_7 5
+    3300776: Door_R_7 6
+    3300778: Door_R_7 7
+    3300780: Door_R_7 8
+    3300782: Door_R_7 9
+    3300784: Door_R_8
+    3300786: Door_R_9
+    3300788: DoorA
+    3300790: DoorA1
+    3300792: extension
+    3300794: ExtinguisherMounting__1_
+    3300796: ExtinguisherMounting__1_ 1
+    3300798: ExtinguisherMounting__1_ 2
+    3300800: ExtinguisherMounting__1_ 3
+    3300802: ExtinguisherMounting__1_1
+    3300804: ExtinguisherMounting__1_1 1
+    3300806: ExtinguisherMounting__1_1 2
+    3300808: ExtinguisherMounting__1_1 3
+    3300810: ExtinguisherMounting__1_2
+    3300812: ExtinguisherMounting__1_2 1
+    3300814: ExtinguisherMounting__1_2 2
+    3300816: ExtinguisherMounting__1_2 3
+    3300818: ExtinguisherMounting__1_3
+    3300820: ExtinguisherMounting__1_3 1
+    3300822: ExtinguisherMounting__1_3 2
+    3300824: ExtinguisherMounting__1_3 3
+    3300826: Felt__Pen_Pink__1_
+    3300828: Felt__Pen_Pink__2_
+    3300830: Felt__Pen_Ultramarin__1_
+    3300832: Felt__Pen_Ultramarin__2_
+    3300834: FeltPen_Blue
+    3300836: FeltPen_Blue1
+    3300838: FeltPen_Blue2
+    3300840: FeltPen_Blue3
+    3300842: FileCabinet_01__19_1
+    3300844: FileCabinet_01__8_
+    3300846: FileCabinet_02__5_
+    3300848: Floor_6m__30_1
+    3300850: Frame01
+    3300852: Frame02
+    3300854: Frame15
+    3300856: Glass_1m__27_2
+    3300858: GlassDecor_1m__1_1
+    3300860: GlassDecor_1m__1_1 1
+    3300862: GlassDecor_1m__1_1 2
+    3300864: HandDryer__6_
+    3300866: Hours
+    3300868: Kerosene
+    3300870: Kerosene1
+    3300872: Kerosene2
+    3300874: Kerosene3
+    3300876: Kerosene4
+    3300878: Kerosene5
+    3300880: Kerosene6
+    3300882: Keyboard
+    3300884: Keyboard__3_
+    3300886: Keyboard___8_4
+    3300888: Lamp02
+    3300890: Lamp02__4_
+    3300892: LampTechnicalA
+    3300894: LampTechnicalA__1_
+    3300896: LampTechnicalA__2_
+    3300898: Laptop
+    3300900: Light1
+    3300902: Light10
+    3300904: Light11
+    3300906: Light12
+    3300908: Light13
+    3300910: Light14
+    3300912: Light15
+    3300914: Light16
+    3300916: Light17
+    3300918: Light18
+    3300920: Light19
+    3300922: Light2
+    3300924: Light20
+    3300926: Light21
+    3300928: Light22
+    3300930: Light23
+    3300932: Light25
+    3300934: Light27
+    3300936: Light28
+    3300938: Light29
+    3300940: Light3
+    3300942: Light30
+    3300944: Light31
+    3300946: Light32
+    3300948: Light33
+    3300950: Light34
+    3300952: Light35
+    3300954: Light36
+    3300956: Light37
+    3300958: Light38
+    3300960: Light39
+    3300962: Light40
+    3300964: Light41
+    3300966: Light42
+    3300968: Light43
+    3300970: Light44
+    3300972: Light45
+    3300974: Light46
+    3300976: Light47
+    3300978: Light48
+    3300980: Light49
+    3300982: Light5
+    3300984: Light50
+    3300986: Light51
+    3300988: Light52
+    3300990: Light53
+    3300992: Light54
+    3300994: Light55
+    3300996: Light56
+    3300998: Light57
+    3301000: Light58
+    3301002: Light59
+    3301004: Light6
+    3301006: Light60
+    3301008: Light61
+    3301010: Light62
+    3301012: Light63
+    3301014: Light64
+    3301016: Light65
+    3301018: Light66
+    3301020: Light67
+    3301022: Light68
+    3301024: Light69
+    3301026: Light7
+    3301028: Light70
+    3301030: Light71
+    3301032: Light72
+    3301034: Light73
+    3301036: Light8
+    3301038: Light9
+    3301040: liver
+    3301042: liver 1
+    3301044: liver 2
+    3301046: liver 3
+    3301048: LockCode__1_
+    3301050: main_body
+    3301052: main_body 1
+    3301054: main_body 2
+    3301056: main_body 3
+    3301058: Marker_Blue
+    3301060: Marker_Blue2
+    3301062: Marker_Blue3
+    3301064: Marker_Blue_1
+    3301066: Marker_Green
+    3301068: Marker_Red
+    3301070: Marker_Red1
+    3301072: Marker_Red2
+    3301074: Marker_Red3
+    3301076: Marker_Yellow
+    3301078: Marker_Yellow1
+    3301080: Marker_Yellow2
+    3301082: Marker_Yellow3
+    3301084: Mat
+    3301086: Mirror__8_
+    3301088: Monitor___3_1
+    3301090: Mouse_01
+    3301092: Mouse__12_
+    3301094: Mouse___5_10
+    3301096: MousePad__1_
+    3301098: MousePad__8_
+    3301100: NotebookOpen
+    3301102: NotebookOpen__1_1
+    3301104: NotebookOpen__2_
+    3301106: Pack_Paper__3_
+    3301108: Paper
+    3301110: Paper1
+    3301112: Paper2
+    3301114: Paper3
+    3301116: Paper__3_
+    3301118: PaperStack_A
+    3301120: PaperStack_A1
+    3301122: PaperStack_A1 1
+    3301124: PaperStack_A1 2
+    3301126: PaperStack_A2
+    3301128: PaperStack_A3
+    3301130: PaperStack_A4
+    3301132: PaperStack_A4 1
+    3301134: PaperStack_A4 2
+    3301136: PaperStack_A5
+    3301138: PaperStack_A5 1
+    3301140: PaperStack_A5 2
+    3301142: PaperStack_A6
+    3301144: PaperStack_A6 1
+    3301146: PaperStack_A6 2
+    3301148: PaperStack_A7
+    3301150: PaperStack_A7 1
+    3301152: PaperStack_A7 2
+    3301154: PaperTray__9_
+    3301156: PC
+    3301158: PC__3_
+    3301160: PC__5_5
+    3301162: pCube100
+    3301164: pCube101
+    3301166: pCube99
+    3301168: pCylinder49
+    3301170: Pen
+    3301172: Pen__1_
+    3301174: Pencil_Black
+    3301176: Pencil_Black__1_
+    3301178: Pencil_Black__2_
+    3301180: Pencil_Black__3_
+    3301182: Pencil_Black__4_
+    3301184: Pencil_Black__5_
+    3301186: Pencil_Black__6_
+    3301188: Pencil_Black__7_
+    3301190: Pencil_Blue
+    3301192: Pencil_Blue__1_
+    3301194: Pencil_Blue__2_
+    3301196: Pencil_Blue__4_
+    3301198: Pencil_Brown
+    3301200: Pencil_Brown__1_
+    3301202: Pencil_Gray
+    3301204: Pencil_Gray1
+    3301206: Pencil_Gray2
+    3301208: Pencil_Gray3
+    3301210: Pencil_Gray__1_
+    3301212: Pencil_Red
+    3301214: Pencil_Red__2_
+    3301216: Pencil_Red__3_
+    3301218: Pencil_White
+    3301220: Pencil_White__2_
+    3301222: PencilCase_filled
+    3301224: PencilCup
+    3301226: PencilCup__2_
+    3301228: Pillars_polySurface407
+    3301230: Plant01_LOD0_1
+    3301232: Plant01_LOD1
+    3301234: Plant01_LOD1_2
+    3301236: Plant02_LOD1
+    3301238: Plant03_LOD1
+    3301240: Plant03_LOD1_1
+    3301242: polySurface109
+    3301244: polySurface112
+    3301246: polySurface116
+    3301248: polySurface247
+    3301250: polySurface248
+    3301252: polySurface249
+    3301254: polySurface250
+    3301256: polySurface251
+    3301258: polySurface252
+    3301260: polySurface253
+    3301262: polySurface254
+    3301264: polySurface255
+    3301266: polySurface256
+    3301268: polySurface257
+    3301270: polySurface258
+    3301272: polySurface259
+    3301274: polySurface260
+    3301276: polySurface261
+    3301278: polySurface262
+    3301280: polySurface263
+    3301282: polySurface264
+    3301284: polySurface265
+    3301286: polySurface266
+    3301288: polySurface267
+    3301290: polySurface268
+    3301292: polySurface269
+    3301294: polySurface270
+    3301296: polySurface271
+    3301298: polySurface272
+    3301300: polySurface273
+    3301302: polySurface274
+    3301304: polySurface275
+    3301306: polySurface276
+    3301308: polySurface277
+    3301310: polySurface278
+    3301312: polySurface279
+    3301314: polySurface280
+    3301316: polySurface281
+    3301318: polySurface282
+    3301320: polySurface283
+    3301322: polySurface284
+    3301324: polySurface285
+    3301326: polySurface286
+    3301328: polySurface287
+    3301330: polySurface288
+    3301332: polySurface289
+    3301334: polySurface290
+    3301336: polySurface291
+    3301338: polySurface292
+    3301340: polySurface293
+    3301342: polySurface294
+    3301344: polySurface295
+    3301346: polySurface296
+    3301348: polySurface297
+    3301350: polySurface298
+    3301352: polySurface351
+    3301354: polySurface388
+    3301356: polySurface395
+    3301358: polySurface399
+    3301360: polySurface400
+    3301362: polySurface400 1
+    3301364: polySurface400 2
+    3301366: polySurface401
+    3301368: polySurface404
+    3301370: polySurface406
+    3301372: polySurface407
+    3301374: polySurface407 1
+    3301376: polySurface407 2
+    3301378: polySurface410
+    3301380: polySurface411
+    3301382: polySurface412
+    3301384: polySurface413
+    3301386: polySurface415
+    3301388: polySurface60705
+    3301390: polySurface60706
+    3301392: polySurface60707
+    3301394: polySurface60708
+    3301396: polySurface60720
+    3301398: polySurface60790
+    3301400: polySurface60790 1
+    3301402: polySurface60790 2
+    3301404: polySurface60793
+    3301406: polySurface60794
+    3301408: polySurface60795
+    3301410: polySurface60795 1
+    3301412: polySurface60795 2
+    3301414: polySurface60795 3
+    3301416: polySurface60796
+    3301418: polySurface60796 1
+    3301420: polySurface60796 2
+    3301422: polySurface60796 3
+    3301424: polySurface60797
+    3301426: polySurface60797 1
+    3301428: polySurface60797 2
+    3301430: polySurface60797 3
+    3301432: polySurface60798
+    3301434: polySurface60798 1
+    3301436: polySurface60798 2
+    3301438: polySurface60798 3
+    3301440: polySurface60799
+    3301442: polySurface60799 1
+    3301444: polySurface60799 2
+    3301446: polySurface60799 3
+    3301448: polySurface60800
+    3301450: polySurface60800 1
+    3301452: polySurface60800 2
+    3301454: polySurface60800 3
+    3301456: polySurface60801
+    3301458: polySurface60801 1
+    3301460: polySurface60801 2
+    3301462: polySurface60801 3
+    3301464: polySurface60802
+    3301466: polySurface60802 1
+    3301468: polySurface60802 2
+    3301470: polySurface60802 3
+    3301472: polySurface60803
+    3301474: polySurface60803 1
+    3301476: polySurface60803 2
+    3301478: polySurface60803 3
+    3301480: polySurface60804
+    3301482: polySurface60804 1
+    3301484: polySurface60804 2
+    3301486: polySurface60804 3
+    3301488: polySurface60805
+    3301490: polySurface60805 1
+    3301492: polySurface60805 2
+    3301494: polySurface60805 3
+    3301496: polySurface60806
+    3301498: polySurface60806 1
+    3301500: polySurface60806 2
+    3301502: polySurface60806 3
+    3301504: polySurface60807
+    3301506: polySurface60807 1
+    3301508: polySurface60807 2
+    3301510: polySurface60807 3
+    3301512: polySurface60808
+    3301514: polySurface60808 1
+    3301516: polySurface60808 2
+    3301518: polySurface60808 3
+    3301520: polySurface60809
+    3301522: polySurface60809 1
+    3301524: polySurface60809 2
+    3301526: polySurface60809 3
+    3301528: polySurface60810
+    3301530: polySurface60810 1
+    3301532: polySurface60810 2
+    3301534: polySurface60810 3
+    3301536: polySurface60810 4
+    3301538: polySurface60810 5
+    3301540: polySurface60810 6
+    3301542: polySurface60810 7
+    3301544: polySurface60811
+    3301546: polySurface60811 1
+    3301548: polySurface60811 2
+    3301550: polySurface60811 3
+    3301552: polySurface60811 4
+    3301554: polySurface60811 5
+    3301556: polySurface60811 6
+    3301558: polySurface60811 7
+    3301560: polySurface60812
+    3301562: polySurface60812 1
+    3301564: polySurface60812 2
+    3301566: polySurface60812 3
+    3301568: polySurface60812 4
+    3301570: polySurface60812 5
+    3301572: polySurface60812 6
+    3301574: polySurface60812 7
+    3301576: polySurface60813
+    3301578: polySurface60813 1
+    3301580: polySurface60813 2
+    3301582: polySurface60813 3
+    3301584: polySurface60813 4
+    3301586: polySurface60813 5
+    3301588: polySurface60813 6
+    3301590: polySurface60813 7
+    3301592: polySurface60814
+    3301594: polySurface60814 1
+    3301596: polySurface60814 2
+    3301598: polySurface60814 3
+    3301600: polySurface60814 4
+    3301602: polySurface60814 5
+    3301604: polySurface60814 6
+    3301606: polySurface60814 7
+    3301608: polySurface60815
+    3301610: polySurface60815 1
+    3301612: polySurface60815 2
+    3301614: polySurface60815 3
+    3301616: polySurface60815 4
+    3301618: polySurface60815 5
+    3301620: polySurface60815 6
+    3301622: polySurface60815 7
+    3301624: polySurface60816
+    3301626: polySurface60816 1
+    3301628: polySurface60816 2
+    3301630: polySurface60816 3
+    3301632: polySurface60816 4
+    3301634: polySurface60816 5
+    3301636: polySurface60816 6
+    3301638: polySurface60816 7
+    3301640: polySurface60817
+    3301642: polySurface60817 1
+    3301644: polySurface60817 2
+    3301646: polySurface60817 3
+    3301648: polySurface60817 4
+    3301650: polySurface60817 5
+    3301652: polySurface60817 6
+    3301654: polySurface60817 7
+    3301656: polySurface60818
+    3301658: polySurface60818 1
+    3301660: polySurface60818 2
+    3301662: polySurface60818 3
+    3301664: polySurface60818 4
+    3301666: polySurface60818 5
+    3301668: polySurface60818 6
+    3301670: polySurface60818 7
+    3301672: polySurface60819
+    3301674: polySurface60819 1
+    3301676: polySurface60819 2
+    3301678: polySurface60819 3
+    3301680: polySurface60819 4
+    3301682: polySurface60819 5
+    3301684: polySurface60819 6
+    3301686: polySurface60819 7
+    3301688: polySurface60820
+    3301690: polySurface60820 1
+    3301692: polySurface60820 2
+    3301694: polySurface60820 3
+    3301696: polySurface60820 4
+    3301698: polySurface60820 5
+    3301700: polySurface60820 6
+    3301702: polySurface60820 7
+    3301704: polySurface60821
+    3301706: polySurface60821 1
+    3301708: polySurface60821 2
+    3301710: polySurface60821 3
+    3301712: polySurface60821 4
+    3301714: polySurface60821 5
+    3301716: polySurface60821 6
+    3301718: polySurface60821 7
+    3301720: polySurface60822
+    3301722: polySurface60822 1
+    3301724: polySurface60822 2
+    3301726: polySurface60822 3
+    3301728: polySurface60822 4
+    3301730: polySurface60822 5
+    3301732: polySurface60822 6
+    3301734: polySurface60822 7
+    3301736: polySurface60823
+    3301738: polySurface60823 1
+    3301740: polySurface60823 2
+    3301742: polySurface60823 3
+    3301744: polySurface60823 4
+    3301746: polySurface60823 5
+    3301748: polySurface60823 6
+    3301750: polySurface60823 7
+    3301752: polySurface60824
+    3301754: polySurface60824 1
+    3301756: polySurface60824 2
+    3301758: polySurface60824 3
+    3301760: polySurface60824 4
+    3301762: polySurface60824 5
+    3301764: polySurface60824 6
+    3301766: polySurface60824 7
+    3301768: polySurface60841
+    3301770: polySurface60841 1
+    3301772: polySurface60841 2
+    3301774: polySurface60841 3
+    3301776: polySurface60842
+    3301778: polySurface60842 1
+    3301780: polySurface60842 2
+    3301782: polySurface60842 3
+    3301784: polySurface60843
+    3301786: polySurface60843 1
+    3301788: polySurface60843 2
+    3301790: polySurface60843 3
+    3301792: polySurface60844
+    3301794: polySurface60844 1
+    3301796: polySurface60844 2
+    3301798: polySurface60844 3
+    3301800: polySurface60845
+    3301802: polySurface60845 1
+    3301804: polySurface60845 2
+    3301806: polySurface60845 3
+    3301808: polySurface60846
+    3301810: polySurface60846 1
+    3301812: polySurface60846 2
+    3301814: polySurface60846 3
+    3301816: polySurface60847
+    3301818: polySurface60847 1
+    3301820: polySurface60847 2
+    3301822: polySurface60847 3
+    3301824: polySurface60848
+    3301826: polySurface60848 1
+    3301828: polySurface60848 2
+    3301830: polySurface60848 3
+    3301832: polySurface60849
+    3301834: polySurface60849 1
+    3301836: polySurface60849 2
+    3301838: polySurface60849 3
+    3301840: polySurface60850
+    3301842: polySurface60850 1
+    3301844: polySurface60850 2
+    3301846: polySurface60850 3
+    3301848: polySurface60851
+    3301850: polySurface60851 1
+    3301852: polySurface60851 2
+    3301854: polySurface60851 3
+    3301856: polySurface60852
+    3301858: polySurface60852 1
+    3301860: polySurface60852 2
+    3301862: polySurface60852 3
+    3301864: polySurface60853
+    3301866: polySurface60853 1
+    3301868: polySurface60853 2
+    3301870: polySurface60853 3
+    3301872: polySurface60854
+    3301874: polySurface60854 1
+    3301876: polySurface60854 2
+    3301878: polySurface60854 3
+    3301880: polySurface60855
+    3301882: polySurface60855 1
+    3301884: polySurface60855 2
+    3301886: polySurface60855 3
+    3301888: polySurface60856
+    3301890: polySurface60857
+    3301892: polySurface60858
+    3301894: polySurface60859
+    3301896: polySurface60860
+    3301898: polySurface60861
+    3301900: polySurface60862
+    3301902: polySurface60863
+    3301904: polySurface60864
+    3301906: polySurface60865
+    3301908: polySurface60866
+    3301910: polySurface60867
+    3301912: polySurface60868
+    3301914: polySurface60869
+    3301916: polySurface60870
+    3301918: polySurface60871
+    3301920: polySurface60872
+    3301922: polySurface60873
+    3301924: polySurface60874
+    3301926: polySurface60875
+    3301928: polySurface60876
+    3301930: polySurface60877
+    3301932: polySurface60878
+    3301934: polySurface60879
+    3301936: polySurface60880
+    3301938: polySurface60881
+    3301940: polySurface60882
+    3301942: polySurface60883
+    3301944: polySurface60884
+    3301946: polySurface60885
+    3301948: polySurface60886
+    3301950: polySurface60887
+    3301952: polySurface60888
+    3301954: polySurface91
+    3301956: PortableBox_A__14_
+    3301958: PortableBox_A__15_
+    3301960: PortableBox_A__16_
+    3301962: PortableBox_A__17_
+    3301964: PortableBox_A__1_
+    3301966: PortableBox_A__2_
+    3301968: PortableBox_A__3_
+    3301970: PortableBox_B__11_
+    3301972: PortableBox_B__12_
+    3301974: PortableBox_B__13_
+    3301976: PortableBox_B__14_
+    3301978: PortableBox_B__15_
+    3301980: PortableBox_B__1_
+    3301982: Printer__1_
+    3301984: Printer__2_
+    3301986: PrinterPro
+    3301988: PrinterPro__1_
+    3301990: Pushpin_White
+    3301992: Rack__12_1
+    3301994: ReceptionClosets__2_
+    3301996: ReceptionClosets__5_
+    3301998: ReceptionClosets__7_
+    3302000: ReceptionTable_cornerOutside__5_
+    3302002: RingBinderB__4_
+    3302004: Roof
+    3302006: Second_1
+    3302008: SecretaryDesk__1_
+    3302010: SistemUnit__8_
+    3302012: Smartphone
+    3302014: Smartphone__1_2
+    3302016: stand
+    3302018: stand 1
+    3302020: stand 2
+    3302022: stand 3
+    3302024: stand1
+    3302026: stand1 1
+    3302028: stand1 2
+    3302030: stand1 3
+    3302032: stand2
+    3302034: stand2 1
+    3302036: stand2 2
+    3302038: stand2 3
+    3302040: stand3
+    3302042: stand3 1
+    3302044: stand3 2
+    3302046: stand3 3
+    3302048: StandTableWork__12_3
+    3302050: StickerGreen
+    3302052: StickerPink
+    3302054: StickerPink1
+    3302056: StickerPink2
+    3302058: StickerPink3
+    3302060: StickersGreen
+    3302062: StickersPink
+    3302064: StickersPink1
+    3302066: StickersPink2
+    3302068: StickersPink3
+    3302070: table
+    3302072: TableA
+    3302074: TableA__1_
+    3302076: TableRound_module_8
+    3302078: TabletPC
+    3302080: Toilet_LOD0
+    3302082: ToiletPaper
+    3302084: ToiletPartition
+    3302086: TrashCan_01__11_
+    3302088: TrashCan_01__7_10
+    3302090: TrashCan_01__7_8
+    3302092: TrashCan_01__7_9
+    3302094: TrashCan_01__8_1
+    3302096: TrashCan__5_
+    3302098: TV
+    3302100: TV_for_wall__2_
+    3302102: TV_wire
+    3302104: Urinal_LOD1
+    3302106: Wall2
+    3302108: windows
+    4300000: Frame02
+    4300002: CCTV_1__10_
+    4300004: CCTV_1__6_
+    4300006: CCTV_1__7_
+    4300008: Paper__3_
+    4300010: MousePad__1_
+    4300012: Mouse_01
+    4300014: Mouse__12_
+    4300016: PC__3_
+    4300018: PC
+    4300020: DoorA
+    4300022: Pack_Paper__3_
+    4300024: Document__5_
+    4300026: StickersGreen
+    4300028: Pencil_White
+    4300030: NotebookOpen__2_
+    4300032: ReceptionClosets__5_
+    4300034: Books_06__1_
+    4300036: TableA
+    4300038: Books_23_2
+    4300040: Books_01_2
+    4300042: Felt__Pen_Pink__2_
+    4300044: Pen
+    4300046: Smartphone
+    4300048: Marker_Blue_1
+    4300050: Keyboard
+    4300052: Keyboard__3_
+    4300054: PencilCup__2_
+    4300056: Pencil_Black__5_
+    4300058: Pencil_Black__6_
+    4300060: Pencil_Black
+    4300062: Pencil_Black__2_
+    4300064: Pencil_Black__1_
+    4300066: Pencil_Black__4_
+    4300068: Pencil_Red
+    4300070: Pencil_Red__2_
+    4300072: LampTechnicalA__1_
+    4300074: LampTechnicalA__2_
+    4300076: Felt__Pen_Ultramarin__1_
+    4300078: Pencil_Blue__2_
+    4300080: Pencil_Blue__1_
+    4300082: Pencil_Black__3_
+    4300084: SecretaryDesk__1_
+    4300086: Lamp02
+    4300088: LampTechnicalA
+    4300090: Pencil_Blue
+    4300092: Felt__Pen_Ultramarin__2_
+    4300094: CCTV_1__8_
+    4300096: TrashCan__5_
+    4300098: StickerGreen
+    4300100: Book_22
+    4300102: HandDryer__6_
+    4300104: Printer__1_
+    4300106: Cup_half_full
+    4300108: Pencil_Brown
+    4300110: Document__4_
+    4300112: LockCode__1_
+    4300114: NotebookOpen
+    4300116: Frame01
+    4300118: Pushpin_White
+    4300120: Marker_Green
+    4300122: Felt__Pen_Pink__1_
+    4300124: PencilCup
+    4300126: DoorA1
+    4300128: windows
+    4300130: TrashCan_01__11_
+    4300132: Paper
+    4300134: FeltPen_Blue
+    4300136: StickersPink
+    4300138: Marker_Yellow
+    4300140: PaperStack_A
+    4300142: Pencil_Gray
+    4300144: StickerPink
+    4300146: Marker_Red
+    4300148: Marker_Blue
+    4300150: Paper2
+    4300152: FeltPen_Blue2
+    4300154: Marker_Yellow1
+    4300156: StickersPink1
+    4300158: Marker_Red1
+    4300160: StickerPink1
+    4300162: Pencil_Gray1
+    4300164: Paper1
+    4300166: FeltPen_Blue1
+    4300168: TrashCan_01__8_1
+    4300170: polySurface293
+    4300172: polySurface298
+    4300174: polySurface297
+    4300176: polySurface296
+    4300178: polySurface292
+    4300180: polySurface295
+    4300182: polySurface291
+    4300184: polySurface294
+    4300186: PaperStack_A3
+    4300188: Marker_Yellow3
+    4300190: StickersPink3
+    4300192: Marker_Red3
+    4300194: StickerPink3
+    4300196: Pencil_Gray3
+    4300198: Marker_Blue3
+    4300200: Paper3
+    4300202: FeltPen_Blue3
+    4300204: PaperStack_A2
+    4300206: Marker_Yellow2
+    4300208: StickersPink2
+    4300210: Marker_Red2
+    4300212: StickerPink2
+    4300214: Pencil_Gray2
+    4300216: Marker_Blue2
+    4300218: PC__5_5
+    4300220: Smartphone__1_2
+    4300222: Pen__1_
+    4300224: Mouse___5_10
+    4300226: Keyboard___8_4
+    4300228: polySurface415
+    4300230: Donut__1_
+    4300232: NotebookOpen__1_1
+    4300234: SistemUnit__8_
+    4300236: StandTableWork__12_3
+    4300238: table
+    4300240: TrashCan_01__7_8
+    4300242: TrashCan_01__7_9
+    4300244: TrashCan_01__7_10
+    4300246: polySurface399
+    4300248: polySurface60862
+    4300250: polySurface60857
+    4300252: polySurface60858
+    4300254: polySurface60860
+    4300256: polySurface60856
+    4300258: polySurface60864
+    4300260: polySurface60872
+    4300262: polySurface60870
+    4300264: Document__2_
+    4300266: Pencil_Red__3_
+    4300268: Pencil_Blue__4_
+    4300270: Pencil_Brown__1_
+    4300272: Pencil_Black__7_
+    4300274: Pencil_White__2_
+    4300276: Pencil_Gray__1_
+    4300278: Mat
+    4300280: TableA__1_
+    4300282: PencilCase_filled
+    4300284: Book_01
+    4300286: Lamp02__4_
+    4300288: PaperTray__9_
+    4300290: polySurface60874
+    4300292: Document__2_1
+    4300294: Document__2_2
+    4300296: Document__2_3
+    4300298: Book_52
+    4300300: Roof
+    4300302: Light1
+    4300304: Light2
+    4300306: Light3
+    4300308: Light5
+    4300310: Light6
+    4300312: Light7
+    4300314: Light8
+    4300316: Light9
+    4300318: Light10
+    4300320: Light11
+    4300322: Light12
+    4300324: Light13
+    4300326: Light14
+    4300328: Light15
+    4300330: Light16
+    4300332: Light17
+    4300334: Light18
+    4300336: Light19
+    4300338: Light20
+    4300340: Light21
+    4300342: Light22
+    4300344: Light23
+    4300346: Light25
+    4300348: Light27
+    4300350: Light28
+    4300352: Light29
+    4300354: Light30
+    4300356: Light31
+    4300358: Light32
+    4300360: Light33
+    4300362: Light34
+    4300364: Light35
+    4300366: Light36
+    4300368: Light37
+    4300370: Light38
+    4300372: Light39
+    4300374: Light40
+    4300376: Light41
+    4300378: Light42
+    4300380: Light43
+    4300382: Light44
+    4300384: Light45
+    4300386: Light46
+    4300388: Light47
+    4300390: Light48
+    4300392: Light49
+    4300394: Light50
+    4300396: Light51
+    4300398: Light52
+    4300400: Light53
+    4300402: Light54
+    4300404: Light55
+    4300406: Light56
+    4300408: Light57
+    4300410: Light58
+    4300412: Light59
+    4300414: Light60
+    4300416: Light61
+    4300418: Light62
+    4300420: Light63
+    4300422: Light64
+    4300424: Light65
+    4300426: Light66
+    4300428: Light67
+    4300430: Light68
+    4300432: Light69
+    4300434: Light70
+    4300436: Light71
+    4300438: Light72
+    4300440: Light73
+    4300442: AC_Duct1
+    4300444: AC_Duct2
+    4300446: AC_Duct3
+    4300448: AC_Duct5
+    4300450: AC_Duct6
+    4300452: AC_Duct7
+    4300454: AC_Duct8
+    4300456: AC_Duct9
+    4300458: AC_Duct10
+    4300460: AC_Duct11
+    4300462: AC_Duct12
+    4300464: AC_Duct13
+    4300466: AC_Duct14
+    4300468: AC_Duct15
+    4300470: AC_Duct16
+    4300472: AC_Duct17
+    4300474: AC_Duct18
+    4300476: AC_Duct19
+    4300478: AC_Duct20
+    4300480: AC_Duct21
+    4300482: AC_Duct22
+    4300484: AC_Duct26
+    4300486: AC_Duct27
+    4300488: AC_Duct28
+    4300490: AC_Duct29
+    4300492: AC_Duct30
+    4300494: AC_Duct31
+    4300496: AC_Duct32
+    4300498: AC_Duct33
+    4300500: AC_Duct34
+    4300502: AC_Duct35
+    4300504: AC_Duct36
+    4300506: AC_Duct37
+    4300508: AC_Duct38
+    4300510: AC_Duct39
+    4300512: AC_Duct40
+    4300514: AC_Duct41
+    4300516: AC_Duct42
+    4300518: AC_Duct43
+    4300520: AC_Duct47
+    4300522: AC_Duct49
+    4300524: AC_Duct50
+    4300526: AC_Duct52
+    4300528: AC_Duct53
+    4300530: AC_Duct55
+    4300532: AC_Duct56
+    4300534: AC_Duct58
+    4300536: AC_Duct59
+    4300538: AC_Duct60
+    4300540: AC_Duct61
+    4300542: AC_Duct62
+    4300544: AC_Duct63
+    4300546: AC_Duct64
+    4300548: AC_Duct65
+    4300550: AC_Duct66
+    4300552: AC_Duct67
+    4300554: AC_Duct68
+    4300556: TV_wire
+    4300558: AC3
+    4300560: AC2
+    4300562: polySurface60795
+    4300564: polySurface60796
+    4300566: polySurface60797
+    4300568: polySurface60798
+    4300570: polySurface60799
+    4300572: polySurface60800
+    4300574: polySurface60801
+    4300576: polySurface60802
+    4300578: polySurface60803
+    4300580: polySurface60804
+    4300582: polySurface60805
+    4300584: polySurface60806
+    4300586: polySurface60807
+    4300588: polySurface60808
+    4300590: polySurface60809
+    4300592: ExtinguisherMounting__1_3
+    4300594: stand3
+    4300596: stand2
+    4300598: ExtinguisherMounting__1_2
+    4300600: polySurface60810
+    4300602: polySurface60811
+    4300604: polySurface60812
+    4300606: polySurface60813
+    4300608: polySurface60814
+    4300610: polySurface60815
+    4300612: polySurface60816
+    4300614: polySurface60817
+    4300616: polySurface60818
+    4300618: polySurface60819
+    4300620: polySurface60820
+    4300622: polySurface60821
+    4300624: polySurface60822
+    4300626: polySurface60823
+    4300628: polySurface60824
+    4300630: polySurface60810
+    4300632: polySurface60811
+    4300634: polySurface60812
+    4300636: polySurface60813
+    4300638: polySurface60814
+    4300640: polySurface60815
+    4300642: polySurface60816
+    4300644: polySurface60817
+    4300646: polySurface60818
+    4300648: polySurface60819
+    4300650: polySurface60820
+    4300652: polySurface60821
+    4300654: polySurface60822
+    4300656: polySurface60823
+    4300658: polySurface60824
+    4300660: stand1
+    4300662: ExtinguisherMounting__1_1
+    4300664: polySurface60841
+    4300666: polySurface60842
+    4300668: polySurface60843
+    4300670: polySurface60844
+    4300672: polySurface60845
+    4300674: polySurface60846
+    4300676: polySurface60847
+    4300678: polySurface60848
+    4300680: polySurface60849
+    4300682: polySurface60850
+    4300684: polySurface60851
+    4300686: polySurface60852
+    4300688: polySurface60853
+    4300690: polySurface60854
+    4300692: polySurface60855
+    4300694: stand
+    4300696: ExtinguisherMounting__1_
+    4300698: main_body
+    4300700: liver
+    4300702: PaperStack_A1
+    4300704: PaperStack_A7
+    4300706: PaperStack_A6
+    4300708: PaperStack_A5
+    4300710: PaperStack_A4
+    4300712: polySurface407
+    4300714: polySurface400
+    4300716: polySurface60790
+    4300718: PaperStack_A1
+    4300720: PaperStack_A7
+    4300722: PaperStack_A6
+    4300724: PaperStack_A5
+    4300726: PaperStack_A4
+    4300728: polySurface407
+    4300730: polySurface400
+    4300732: polySurface60790
+    4300734: PaperStack_A1
+    4300736: PaperStack_A7
+    4300738: PaperStack_A6
+    4300740: PaperStack_A5
+    4300742: PaperStack_A4
+    4300744: polySurface407
+    4300746: polySurface400
+    4300748: polySurface60790
+    4300750: polySurface60720
+    4300752: polySurface60793
+    4300754: Door_R_7
+    4300756: Door_2_5m__1_2
+    4300758: Door_R_7
+    4300760: Door_2_5m__1_2
+    4300762: Door_L_7
+    4300764: Door_R_7
+    4300766: Door_2_5m__1_2
+    4300768: Door_R_8
+    4300770: Door_R_9
+    4300772: Door_R_10
+    4300774: Door_R_11
+    4300776: pCube99
+    4300778: Door_L_7
+    4300780: Door_R_7
+    4300782: Door_2_5m__1_2
+    4300784: Door_L_7
+    4300786: Door_R_7
+    4300788: Door_2_5m__1_2
+    4300790: Door_L_7
+    4300792: Door_R_7
+    4300794: Door_2_5m__1_2
+    4300796: Door_L_7
+    4300798: Door_R_7
+    4300800: Door_2_5m__1_2
+    4300802: Door_L_7
+    4300804: Door_R_7
+    4300806: Glass_1m__27_2
+    4300808: Door_L_7
+    4300810: Door_R_7
+    4300812: GlassDecor_1m__1_1
+    4300814: Cup_full
+    4300816: CarpetPath_02__4_
+    4300818: Door_L_7
+    4300820: Door_R_7
+    4300822: GlassDecor_1m__1_1
+    4300824: Door_L_7
+    4300826: Door_R_7
+    4300828: GlassDecor_1m__1_1
+    4300830: Cupboard
+    4300832: BookcaseA_books__1_
+    4300834: Books_24
+    4300836: Hours
+    4300838: TV_for_wall__2_
+    4300840: PrinterPro
+    4300842: Book_16_5
+    4300844: DecorativeTop__8_1
+    4300846: DecorativeTop__1_
+    4300848: Cupboard__6_
+    4300850: DecorativeTop__5_
+    4300852: DecorativeTop__2_
+    4300854: DecorativeTop__4_
+    4300856: Book_16_6
+    4300858: Cupboard__1_
+    4300860: DecorativeTop__10_
+    4300862: ReceptionClosets__7_
+    4300864: Printer__2_
+    4300866: Clock_03
+    4300868: BoxPortableCap_D
+    4300870: BoxPortable_D
+    4300872: polySurface60794
+    4300874: FileCabinet_01__19_1
+    4300876: PrinterPro__1_
+    4300878: polySurface60859
+    4300880: polySurface60861
+    4300882: polySurface60863
+    4300884: polySurface60865
+    4300886: polySurface60866
+    4300888: polySurface60867
+    4300890: polySurface60868
+    4300892: polySurface60869
+    4300894: polySurface60871
+    4300896: polySurface60873
+    4300898: polySurface60875
+    4300900: polySurface60876
+    4300902: polySurface60877
+    4300904: polySurface60878
+    4300906: polySurface60879
+    4300908: DecorativeTop__6_
+    4300910: Second_1
+    4300912: polySurface60885
+    4300914: polySurface60886
+    4300916: polySurface60887
+    4300918: polySurface60888
+    4300920: TableRound_module_8
+    4300922: polySurface60705
+    4300924: polySurface60706
+    4300926: polySurface60707
+    4300928: ToiletPartition
+    4300930: Mirror__8_
+    4300932: Urinal_LOD1
+    4300934: ToiletPaper
+    4300936: Toilet_LOD0
+    4300938: Frame15
+    4300940: BookcaseA__3_
+    4300942: RingBinderB__4_
+    4300944: Books_02__1_
+    4300946: Books_18__1_
+    4300948: Cupboard__3_
+    4300950: Book_51
+    4300952: BookcaseA_books
+    4300954: polySurface116
+    4300956: polySurface112
+    4300958: polySurface109
+    4300960: polySurface410
+    4300962: polySurface411
+    4300964: polySurface412
+    4300966: polySurface413
+    4300968: Plant01_LOD1
+    4300970: Plant03_LOD1
+    4300972: Plant02_LOD1
+    4300974: Plant01_LOD0_1
+    4300976: Plant01_LOD1_2
+    4300978: Plant03_LOD1_1
+    4300980: TV
+    4300982: ReceptionClosets__2_
+    4300984: polySurface351
+    4300986: Wall2
+    4300988: Pillars_polySurface407
+    4300990: polySurface401
+    4300992: polySurface406
+    4300994: polySurface91
+    4300996: polySurface404
+    4300998: polySurface60708
+    4301000: polySurface388
+    4301002: polySurface395
+    4301004: Laptop
+    4301006: TabletPC
+    4301008: Clock_01_LOD0
+    4301010: polySurface60880
+    4301012: polySurface60881
+    4301014: polySurface60882
+    4301016: polySurface60883
+    4301018: polySurface60884
+    4301020: Rack__12_1
+    4301022: MousePad__8_
+    4301024: Monitor___3_1
+    4301026: ReceptionTable_cornerOutside__5_
+    4301028: Floor_6m__30_1
+    4301030: Kerosene2
+    4301032: Kerosene1
+    4301034: Kerosene
+    4301036: Kerosene3
+    4301038: Kerosene4
+    4301040: Kerosene5
+    4301042: Kerosene6
+    4301044: FileCabinet_01__8_
+    4301046: BoxBig__133_
+    4301048: PortableBox_B__1_
+    4301050: BoxBig__110_
+    4301052: BoxBig__42_
+    4301054: BoxBig__141_
+    4301056: BoxBig__153_
+    4301058: BoxBig__115_
+    4301060: BoxBig__93_
+    4301062: BoxBig__37_
+    4301064: BoxBig__35_
+    4301066: BoxBig_2
+    4301068: BoxBig__39_
+    4301070: BoxBig_3
+    4301072: BoxBig__112_
+    4301074: BoxBig__87_
+    4301076: BoxBig__98_
+    4301078: BoxBig__154_
+    4301080: BoxBig__108_
+    4301082: BoxBig__152_
+    4301084: BoxBig__72_
+    4301086: BoxBig__139_
+    4301088: BoxBig__107_
+    4301090: BoxBig__116_
+    4301092: BoxBig__2_
+    4301094: Box__10_
+    4301096: Box__95_
+    4301098: Box_1
+    4301100: Box__3_
+    4301102: Box__94_
+    4301104: BoxBig__131_
+    4301106: BoxBig__151_
+    4301108: Box__16_
+    4301110: PortableBox_A__16_
+    4301112: BoxBig__149_
+    4301114: BoxBig__144_
+    4301116: BoxPortableCap_C
+    4301118: BoxPortable_C
+    4301120: BoxOpen
+    4301122: BoxBig__25_
+    4301124: BoxBig__143_
+    4301126: BoxBig__84_
+    4301128: BoxBig__41_
+    4301130: BoxBig__136_
+    4301132: BoxBig__97_
+    4301134: BoxBig__81_
+    4301136: BoxBig__125_
+    4301138: BoxBig__114_
+    4301140: BoxBig__126_
+    4301142: BoxBig__155_
+    4301144: BoxBig__73_
+    4301146: BoxBigOpen
+    4301148: PortableBox_B__11_
+    4301150: PortableBox_B__12_
+    4301152: BoxOpen__2_
+    4301154: BoxBig__82_
+    4301156: PortableBox_A__2_
+    4301158: BoxBig__50_
+    4301160: BoxBig__31_
+    4301162: BoxBig__109_
+    4301164: BoxBig__138_
+    4301166: BoxBig__104_
+    4301168: BoxBig__121_
+    4301170: BoxBig__148_
+    4301172: BoxBig__132_
+    4301174: BoxPortable_C_2
+    4301176: PortableBox_B__14_
+    4301178: PortableBox_A__3_
+    4301180: BoxBig__119_
+    4301182: BoxBig__96_
+    4301184: BoxBig__43_
+    4301186: Box__6_
+    4301188: BoxBig__103_
+    4301190: BoxBig__94_
+    4301192: BoxBig__24_
+    4301194: BoxBig__47_
+    4301196: BoxBig__1_
+    4301198: BoxBig__48_
+    4301200: BoxBig__71_
+    4301202: BoxBig__33_
+    4301204: BoxBig__30_
+    4301206: Box__85_
+    4301208: Box__2_
+    4301210: BoxBig__78_
+    4301212: BoxBig__147_
+    4301214: BoxBigOpen__1_
+    4301216: BoxPortableCap_C_1
+    4301218: PortableBox_B__15_
+    4301220: BoxPortable_B
+    4301222: BoxBig__134_
+    4301224: BoxBig__51_
+    4301226: BoxBig__95_
+    4301228: BoxPortable_A
+    4301230: PortableBox_A__15_
+    4301232: BoxBig__85_
+    4301234: Box__176_
+    4301236: BoxBig__137_
+    4301238: Box__13_
+    4301240: Box__1_
+    4301242: Box__93_
+    4301244: BoxBig__140_
+    4301246: BoxBig__90_
+    4301248: BoxBig__146_
+    4301250: BoxBig__36_
+    4301252: BoxBig__79_
+    4301254: BoxBig__111_
+    4301256: BoxBig__34_
+    4301258: BoxBig__86_
+    4301260: BoxBig__74_
+    4301262: Box__14_
+    4301264: Box__4_
+    4301266: BoxBig__122_
+    4301268: BoxBig__26_
+    4301270: BoxBig__128_
+    4301272: BoxBig__124_
+    4301274: BoxBig__91_
+    4301276: BoxBig_4
+    4301278: BoxBig__3_
+    4301280: BoxBig
+    4301282: BoxBig__89_
+    4301284: BoxBig__123_
+    4301286: Box__89_
+    4301288: BoxBig__100_
+    4301290: BoxBig__102_
+    4301292: BoxBig__38_
+    4301294: BoxBig__83_
+    4301296: BoxBig__7_
+    4301298: BoxBig__49_
+    4301300: BoxBig__120_
+    4301302: BoxBig__106_
+    4301304: BoxBig__101_
+    4301306: BoxBig__92_
+    4301308: BoxBig__99_
+    4301310: Box__177_
+    4301312: Box__87_
+    4301314: BoxBig__27_
+    4301316: BoxBig_1
+    4301318: BoxBig__52_
+    4301320: Box_2
+    4301322: BoxBig__145_
+    4301324: BoxBig__28_
+    4301326: Box__15_
+    4301328: Box__9_
+    4301330: Box__88_
+    4301332: Box__8_
+    4301334: BoxBig__40_
+    4301336: BoxOpen__1_
+    4301338: BoxBig__105_
+    4301340: BoxBig__142_
+    4301342: Box
+    4301344: Box__5_
+    4301346: Box__86_
+    4301348: Box__12_
+    4301350: BoxBig__127_
+    4301352: BoxBig__88_
+    4301354: BoxBig__46_
+    4301356: BoxBig__113_
+    4301358: BoxBig__32_
+    4301360: BoxBig__150_
+    4301362: Box__84_
+    4301364: PortableBox_A__14_
+    4301366: PortableBox_A__17_
+    4301368: Box__11_
+    4301370: Box__7_
+    4301372: Box__92_
+    4301374: BoxBig__44_
+    4301376: BoxBig__118_
+    4301378: BoxBig__45_
+    4301380: BoxBig__117_
+    4301382: BoxBig__29_
+    4301384: BoxBig__80_
+    4301386: BoxBig__129_
+    4301388: PortableBox_A__1_
+    4301390: BoxBig__135_
+    4301392: PortableBox_B__13_
+    4301394: BoxBig__130_
+    4301396: polySurface253
+    4301398: polySurface252
+    4301400: polySurface256
+    4301402: polySurface251
+    4301404: polySurface250
+    4301406: polySurface254
+    4301408: polySurface255
+    4301410: polySurface249
+    4301412: polySurface270
+    4301414: polySurface272
+    4301416: polySurface264
+    4301418: polySurface265
+    4301420: polySurface269
+    4301422: polySurface263
+    4301424: polySurface267
+    4301426: polySurface266
+    4301428: polySurface262
+    4301430: polySurface261
+    4301432: polySurface268
+    4301434: polySurface271
+    4301436: polySurface290
+    4301438: polySurface284
+    4301440: polySurface285
+    4301442: polySurface289
+    4301444: polySurface286
+    4301446: polySurface283
+    4301448: polySurface287
+    4301450: polySurface288
+    4301452: polySurface247
+    4301454: polySurface248
+    4301456: polySurface282
+    4301458: polySurface281
+    4301460: polySurface280
+    4301462: polySurface278
+    4301464: polySurface279
+    4301466: polySurface275
+    4301468: polySurface277
+    4301470: polySurface273
+    4301472: polySurface276
+    4301474: polySurface274
+    4301476: polySurface257
+    4301478: polySurface259
+    4301480: polySurface260
+    4301482: polySurface258
+    4301484: FileCabinet_02__5_
+    4301486: pCube100
+    4301488: pCube101
+    4301490: _Fire_sprinkler3
+    4301492: _Fire_smoke_detector2
+    4301494: _Fire_smoke_detector3
+    4301496: _Fire_sprinkler4
+    4301498: _Fire_smoke_detector4
+    4301500: _Fire_sprinkler5
+    4301502: _Fire_sprinkler6
+    4301504: _Fire_smoke_detector5
+    4301506: _Fire_smoke_detector6
+    4301508: _Fire_sprinkler7
+    4301510: _Fire_smoke_detector7
+    4301512: _Fire_sprinkler8
+    4301514: _Fire_sprinkler9
+    4301516: _Fire_smoke_detector8
+    4301518: _Fire_sprinkler10
+    4301520: _Fire_smoke_detector9
+    4301522: _Fire_sprinkler11
+    4301524: _Fire_smoke_detector10
+    4301526: _Fire_sprinkler12
+    4301528: _Fire_smoke_detector11
+    4301530: _Fire_sprinkler15
+    4301532: _Fire_smoke_detector14
+    4301534: _Fire_sprinkler16
+    4301536: _Fire_smoke_detector15
+    4301538: _Fire_smoke_detector20
+    4301540: _Fire_sprinkler21
+    4301542: _Fire_smoke_detector21
+    4301544: _Fire_sprinkler22
+    4301546: _Fire_smoke_detector22
+    4301548: _Fire_sprinkler23
+    4301550: _Fire_smoke_detector23
+    4301552: _Fire_sprinkler24
+    4301554: _Fire_smoke_detector24
+    4301556: _Fire_sprinkler25
+    4301558: _Fire_smoke_detector25
+    4301560: _Fire_sprinkler26
+    4301562: _Fire_smoke_detector26
+    4301564: _Fire_sprinkler27
+    4301566: _Fire_smoke_detector27
+    4301568: _Fire_sprinkler28
+    4301570: _Fire_smoke_detector28
+    4301572: _Fire_sprinkler29
+    4301574: _Fire_smoke_detector29
+    4301576: _Fire_sprinkler30
+    4301578: _Fire_smoke_detector30
+    4301580: _Fire_sprinkler31
+    4301582: _Fire_smoke_detector31
+    4301584: _Fire_sprinkler32
+    4301586: _Fire_smoke_detector32
+    4301588: _Fire_sprinkler33
+    4301590: _Fire_sprinkler34
+    4301592: _Fire_smoke_detector33
+    4301594: _Fire_sprinkler35
+    4301596: _Fire_smoke_detector34
+    4301598: _Fire_smoke_detector35
+    4301600: _Fire_sprinkler36
+    4301602: _Fire_smoke_detector36
+    4301604: _Fire_sprinkler37
+    4301606: _Fire_smoke_detector37
+    4301608: _Fire_sprinkler38
+    4301610: _Fire_smoke_detector38
+    4301612: _Fire_sprinkler39
+    4301614: _Fire_smoke_detector39
+    4301616: _Fire_sprinkler40
+    4301618: _Fire_smoke_detector40
+    4301620: _Fire_sprinkler41
+    4301622: _Fire_smoke_detector41
+    4301624: _Fire_sprinkler42
+    4301626: _Fire_smoke_detector42
+    4301628: _Fire_sprinkler43
+    4301630: _Fire_smoke_detector43
+    4301632: _Fire_sprinkler44
+    4301634: _Fire_smoke_detector44
+    4301636: _Fire_sprinkler45
+    4301638: _Fire_smoke_detector45
+    4301640: _Fire_sprinkler46
+    4301642: _Fire_smoke_detector47
+    4301644: _Fire_sprinkler48
+    4301646: _Fire_sprinkler49
+    4301648: _Fire_smoke_detector48
+    4301650: _Fire_sprinkler50
+    4301652: _Fire_smoke_detector49
+    4301654: _Fire_sprinkler51
+    4301656: _Fire_smoke_detector50
+    4301658: _Fire_sprinkler52
+    4301660: _Fire_smoke_detector51
+    4301662: _Fire_smoke_detector52
+    4301664: _Fire_sprinkler53
+    4301666: _Fire_smoke_detector53
+    4301668: _Fire_sprinkler54
+    4301670: _Fire_sprinkler55
+    4301672: _Fire_smoke_detector54
+    4301674: AC
+    4301676: extension
+    4301678: Cube27
+    4301680: AC3
+    4301682: AC2
+    4301684: pCylinder49
+    4301686: AC11
+    4301688: AC9
+    4301690: polySurface60795
+    4301692: polySurface60796
+    4301694: polySurface60797
+    4301696: polySurface60798
+    4301698: polySurface60799
+    4301700: polySurface60800
+    4301702: polySurface60801
+    4301704: polySurface60802
+    4301706: polySurface60803
+    4301708: polySurface60804
+    4301710: polySurface60805
+    4301712: polySurface60806
+    4301714: polySurface60807
+    4301716: polySurface60808
+    4301718: polySurface60809
+    4301720: ExtinguisherMounting__1_3
+    4301722: stand3
+    4301724: stand2
+    4301726: ExtinguisherMounting__1_2
+    4301728: polySurface60810
+    4301730: polySurface60811
+    4301732: polySurface60812
+    4301734: polySurface60813
+    4301736: polySurface60814
+    4301738: polySurface60815
+    4301740: polySurface60816
+    4301742: polySurface60817
+    4301744: polySurface60818
+    4301746: polySurface60819
+    4301748: polySurface60820
+    4301750: polySurface60821
+    4301752: polySurface60822
+    4301754: polySurface60823
+    4301756: polySurface60824
+    4301758: polySurface60810
+    4301760: polySurface60811
+    4301762: polySurface60812
+    4301764: polySurface60813
+    4301766: polySurface60814
+    4301768: polySurface60815
+    4301770: polySurface60816
+    4301772: polySurface60817
+    4301774: polySurface60818
+    4301776: polySurface60819
+    4301778: polySurface60820
+    4301780: polySurface60821
+    4301782: polySurface60822
+    4301784: polySurface60823
+    4301786: polySurface60824
+    4301788: stand1
+    4301790: ExtinguisherMounting__1_1
+    4301792: polySurface60841
+    4301794: polySurface60842
+    4301796: polySurface60843
+    4301798: polySurface60844
+    4301800: polySurface60845
+    4301802: polySurface60846
+    4301804: polySurface60847
+    4301806: polySurface60848
+    4301808: polySurface60849
+    4301810: polySurface60850
+    4301812: polySurface60851
+    4301814: polySurface60852
+    4301816: polySurface60853
+    4301818: polySurface60854
+    4301820: polySurface60855
+    4301822: stand
+    4301824: ExtinguisherMounting__1_
+    4301826: main_body
+    4301828: liver
+    4301830: polySurface60795
+    4301832: polySurface60796
+    4301834: polySurface60797
+    4301836: polySurface60798
+    4301838: polySurface60799
+    4301840: polySurface60800
+    4301842: polySurface60801
+    4301844: polySurface60802
+    4301846: polySurface60803
+    4301848: polySurface60804
+    4301850: polySurface60805
+    4301852: polySurface60806
+    4301854: polySurface60807
+    4301856: polySurface60808
+    4301858: polySurface60809
+    4301860: ExtinguisherMounting__1_3
+    4301862: stand3
+    4301864: stand2
+    4301866: ExtinguisherMounting__1_2
+    4301868: polySurface60810
+    4301870: polySurface60811
+    4301872: polySurface60812
+    4301874: polySurface60813
+    4301876: polySurface60814
+    4301878: polySurface60815
+    4301880: polySurface60816
+    4301882: polySurface60817
+    4301884: polySurface60818
+    4301886: polySurface60819
+    4301888: polySurface60820
+    4301890: polySurface60821
+    4301892: polySurface60822
+    4301894: polySurface60823
+    4301896: polySurface60824
+    4301898: polySurface60810
+    4301900: polySurface60811
+    4301902: polySurface60812
+    4301904: polySurface60813
+    4301906: polySurface60814
+    4301908: polySurface60815
+    4301910: polySurface60816
+    4301912: polySurface60817
+    4301914: polySurface60818
+    4301916: polySurface60819
+    4301918: polySurface60820
+    4301920: polySurface60821
+    4301922: polySurface60822
+    4301924: polySurface60823
+    4301926: polySurface60824
+    4301928: stand1
+    4301930: ExtinguisherMounting__1_1
+    4301932: polySurface60841
+    4301934: polySurface60842
+    4301936: polySurface60843
+    4301938: polySurface60844
+    4301940: polySurface60845
+    4301942: polySurface60846
+    4301944: polySurface60847
+    4301946: polySurface60848
+    4301948: polySurface60849
+    4301950: polySurface60850
+    4301952: polySurface60851
+    4301954: polySurface60852
+    4301956: polySurface60853
+    4301958: polySurface60854
+    4301960: polySurface60855
+    4301962: stand
+    4301964: ExtinguisherMounting__1_
+    4301966: main_body
+    4301968: liver
+    4301970: polySurface60795
+    4301972: polySurface60796
+    4301974: polySurface60797
+    4301976: polySurface60798
+    4301978: polySurface60799
+    4301980: polySurface60800
+    4301982: polySurface60801
+    4301984: polySurface60802
+    4301986: polySurface60803
+    4301988: polySurface60804
+    4301990: polySurface60805
+    4301992: polySurface60806
+    4301994: polySurface60807
+    4301996: polySurface60808
+    4301998: polySurface60809
+    4302000: ExtinguisherMounting__1_3
+    4302002: stand3
+    4302004: stand2
+    4302006: ExtinguisherMounting__1_2
+    4302008: polySurface60810
+    4302010: polySurface60811
+    4302012: polySurface60812
+    4302014: polySurface60813
+    4302016: polySurface60814
+    4302018: polySurface60815
+    4302020: polySurface60816
+    4302022: polySurface60817
+    4302024: polySurface60818
+    4302026: polySurface60819
+    4302028: polySurface60820
+    4302030: polySurface60821
+    4302032: polySurface60822
+    4302034: polySurface60823
+    4302036: polySurface60824
+    4302038: polySurface60810
+    4302040: polySurface60811
+    4302042: polySurface60812
+    4302044: polySurface60813
+    4302046: polySurface60814
+    4302048: polySurface60815
+    4302050: polySurface60816
+    4302052: polySurface60817
+    4302054: polySurface60818
+    4302056: polySurface60819
+    4302058: polySurface60820
+    4302060: polySurface60821
+    4302062: polySurface60822
+    4302064: polySurface60823
+    4302066: polySurface60824
+    4302068: stand1
+    4302070: ExtinguisherMounting__1_1
+    4302072: polySurface60841
+    4302074: polySurface60842
+    4302076: polySurface60843
+    4302078: polySurface60844
+    4302080: polySurface60845
+    4302082: polySurface60846
+    4302084: polySurface60847
+    4302086: polySurface60848
+    4302088: polySurface60849
+    4302090: polySurface60850
+    4302092: polySurface60851
+    4302094: polySurface60852
+    4302096: polySurface60853
+    4302098: polySurface60854
+    4302100: polySurface60855
+    4302102: stand
+    4302104: ExtinguisherMounting__1_
+    4302106: main_body
+    4302108: liver
+    20500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
