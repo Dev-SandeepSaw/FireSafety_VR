@@ -21,13 +21,13 @@ public class ObjectHighlighter : MonoBehaviour
         else
         {
             Debug.LogError("Object does not have a Renderer component!");
-            enabled = false;
+           // enabled = false;
         }
 
         if (highlightMaterial == null)
         {
             Debug.LogError("Highlight material is not assigned in the inspector!");
-            enabled = false;
+            //enabled = false;
         }
     }
 
