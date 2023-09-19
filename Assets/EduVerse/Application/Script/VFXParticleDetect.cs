@@ -6,7 +6,7 @@ using UnityEngine.VFX;
 
 namespace OperationAutoManagerVer3
 {
-    public class VFXParticleDetect : MonoBehaviour
+    public class VfxParticleDetection : MonoBehaviour
     {
         public VisualEffect vfx;
         [Header("Tag var Particle")]
